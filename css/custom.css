@@ -1,0 +1,35 @@
+/* Couleurs personnalisées pour les composants Bootstrap */
+
+.btn-primary {
+    background-color: #A2140A !important; /* Rouge principal */
+    border-color: #A2140A !important;
+}
+
+.btn-secondary {
+    background-color: #4B99BD !important; /* Bleu secondaire */
+    border-color: #4B99BD !important;
+}
+
+.bg-light {
+    background-color: #D5D0AF !important; /* Beige clair */
+}
+
+.bg-dark {
+    background-color: #73422B !important; /* Marron foncé */
+}
+
+.text-primary {
+    color: #A2140A !important;
+}
+
+.text-secondary {
+    color: #4B99BD !important;
+}
+
+.text-light {
+    color: #D5D0AF !important;
+}
+
+.text-dark {
+    color: #73422B !important;
+}
