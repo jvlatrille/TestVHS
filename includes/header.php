@@ -15,7 +15,8 @@
         <nav class="navbar container">
             <!-- Logo et bouton Menu -->
             <a class="navbar-brand d-flex align-items-center" href="../index.php">
-                <img src="../img/logo.png" alt="Logo" width="40" height="40" class="me-2">
+                <img src="../img/logoSoulEater.png" alt="Logo" width="60" height="60" class="me-2">
+                <!--<img src="../img/LogoPopCorn.png.png" alt="Logo" width="40" height="40" class="me-2">-->
                 VHS
             </a>
 
