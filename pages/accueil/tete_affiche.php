@@ -1,9 +1,13 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 <?php
+require_once '../Parsedown.php';
+require_once '../vendor/autoload.php'; // Charger Google Translate
 
-require_once '../Parsedown.php'; // Assure que Parsedown est inclus
+use Stichoza\GoogleTranslate\GoogleTranslate;
+
 $parsedown = new Parsedown();
+$tr = new GoogleTranslate('fr'); // Traduction vers le français
 
 // Requête GraphQL pour récupérer les animés les mieux notés
 $query = <<<'GRAPHQL'
@@ -41,12 +45,13 @@ curl_close($ch);
 $animeData = json_decode($response, true)['data']['Page']['media'] ?? [];
 
 // Fonction pour afficher le carrousel
-function afficherAnimeCarousel($animeData, $parsedown) {
+function afficherAnimeCarousel($animeData, $parsedown, $tr)
+{
     if (empty($animeData)) {
         echo "<p class='text-center'>Aucune donnée disponible pour le moment.</p>";
         return;
     }
-    ?>
+?>
 
     <br>
     <div id="animeCarousel" class="carousel slide" data-bs-ride="carousel">
@@ -57,6 +62,7 @@ function afficherAnimeCarousel($animeData, $parsedown) {
                 width: 300px;
                 border-radius: 8px;
             }
+
             .anime-info {
                 padding-left: 5px;
                 display: flex;
@@ -64,11 +70,12 @@ function afficherAnimeCarousel($animeData, $parsedown) {
                 justify-content: center;
                 height: 100%;
             }
+
             .star-checked {
                 color: #FFD700;
             }
         </style>
-        
+
         <div class="carousel-inner">
             <?php foreach ($animeData as $index => $anime) : ?>
                 <div class="carousel-item <?= $index === 0 ? 'active' : '' ?>">
@@ -90,7 +97,11 @@ function afficherAnimeCarousel($animeData, $parsedown) {
                                     </p>
                                 </div>
                                 <div class="mb-2">
-                                    <?= $parsedown->text($anime['description']) ?>
+                                    <?php
+                                    // Traduire la description
+                                    $descriptionFr = $tr->translate($anime['description']);
+                                    echo $parsedown->text($descriptionFr);
+                                    ?>
                                 </div>
                                 <a href="details.php?id=<?= $anime['id'] ?>" class="btn btn-outline-primary mt-2">En discuter</a>
                             </div>
@@ -109,7 +120,6 @@ function afficherAnimeCarousel($animeData, $parsedown) {
         </button>
     </div>
 
-    <?php
+<?php
 }
-afficherAnimeCarousel($animeData, $parsedown);
-?>
+afficherAnimeCarousel($animeData, $parsedown, $tr);
