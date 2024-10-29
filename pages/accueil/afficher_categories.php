@@ -14,7 +14,6 @@ query {
 }
 GRAPHQL;
 
-// Envoi de la requête pour obtenir la liste des genres
 $ch = curl_init('https://graphql.anilist.co');
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 curl_setopt($ch, CURLOPT_POST, true);
@@ -28,10 +27,8 @@ curl_close($ch);
 
 $genres = json_decode($responseGenres, true)['data']['GenreCollection'] ?? [];
 
-// Détermine le genre sélectionné (par défaut "Action")
 $selectedGenre = $_GET['genre'] ?? 'Action';
 
-// Requête pour récupérer les 20 animés les mieux notés de la catégorie sélectionnée
 $queryAnime = <<<GRAPHQL
 query {
     Page(perPage: 20) {
@@ -49,7 +46,6 @@ query {
 }
 GRAPHQL;
 
-// Envoi de la requête pour obtenir les animés de la catégorie sélectionnée
 $ch = curl_init('https://graphql.anilist.co');
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 curl_setopt($ch, CURLOPT_POST, true);
@@ -63,13 +59,11 @@ curl_close($ch);
 
 $animeData = json_decode($responseAnime, true)['data']['Page']['media'] ?? [];
 
-// Fonction pour afficher le carrousel de la catégorie
 function afficherCategorieCarousel($animeData, $parsedown, $tr, $selectedGenre, $genres)
 {
 ?>
     <div class="container my-5">
-        <h3>Catégorie : 
-            <!-- Menu déroulant pour les genres -->
+        <h3 class="text-primary">Catégorie :
             <select onchange="window.location.href='?genre=' + this.value" class="form-select d-inline-block w-auto">
                 <?php foreach ($genres as $genre) : ?>
                     <option value="<?= $genre ?>" <?= $genre === $selectedGenre ? 'selected' : '' ?>><?= $genre ?></option>
@@ -83,10 +77,10 @@ function afficherCategorieCarousel($animeData, $parsedown, $tr, $selectedGenre, 
                     <div class="carousel-item <?= $index === 0 ? 'active' : '' ?>">
                         <div class="d-flex justify-content-center">
                             <?php foreach ($animeChunk as $anime): ?>
-                                <div class="card text-center mx-2" style="min-width: 150px; max-width: 150px;">
-                                    <img src="<?= $anime['coverImage']['large'] ?>" class="card-img-top" alt="<?= htmlspecialchars($anime['title']['romaji']) ?>" style="height: 200px; object-fit: cover;">
-                                    <div class="card-body">
-                                        <h6 class="card-title"><?= htmlspecialchars($anime['title']['romaji']) ?></h6>
+                                <div class="card text-center mx-2" style="min-width: 150px; max-width: 150px; border: 1px solid black; border-radius: 8px;">
+                                    <img src="<?= $anime['coverImage']['large'] ?>" class="card-img-top" alt="<?= htmlspecialchars($anime['title']['romaji']) ?>" style="height: 200px; object-fit: cover; border-radius: 8px 8px 0 0;">
+                                    <div class="card-body" style="color: #000;">
+                                        <h6 class="card-title" style="color: black;"><?= htmlspecialchars($anime['title']['romaji']) ?></h6>
                                     </div>
                                 </div>
                             <?php endforeach; ?>
@@ -95,7 +89,6 @@ function afficherCategorieCarousel($animeData, $parsedown, $tr, $selectedGenre, 
                 <?php endforeach; ?>
             </div>
 
-            <!-- Boutons de navigation -->
             <button class="carousel-control-prev" type="button" data-bs-target="#categorieCarousel" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon bg-dark rounded-circle" aria-hidden="true"></span>
                 <span class="visually-hidden">Précédent</span>
@@ -113,8 +106,10 @@ function afficherCategorieCarousel($animeData, $parsedown, $tr, $selectedGenre, 
             align-items: center;
             min-height: 300px;
         }
+
         .card {
-            background-color: #1c1c1c;
+            background-color: transparent;
+            /* Fond 100% transparent */
             color: #eaeaea;
             border: 1px solid #0D6EFD;
         }

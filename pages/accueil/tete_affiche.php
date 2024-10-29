@@ -2,12 +2,12 @@
 
 <?php
 require_once '../Parsedown.php';
-require_once '../vendor/autoload.php'; // Charger Google Translate
+require_once '../vendor/autoload.php';
 
 use Stichoza\GoogleTranslate\GoogleTranslate;
 
 $parsedown = new Parsedown();
-$tr = new GoogleTranslate('fr'); // Traduction vers le français
+$tr = new GoogleTranslate('fr');
 
 // Requête GraphQL pour récupérer les animés les mieux notés
 $query = <<<'GRAPHQL'
@@ -30,7 +30,6 @@ query {
 }
 GRAPHQL;
 
-// Envoi de la requête vers l'API d'AniList
 $ch = curl_init('https://graphql.anilist.co');
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 curl_setopt($ch, CURLOPT_POST, true);
@@ -44,7 +43,6 @@ curl_close($ch);
 
 $animeData = json_decode($response, true)['data']['Page']['media'] ?? [];
 
-// Fonction pour afficher le carrousel
 function afficherAnimeCarousel($animeData, $parsedown, $tr)
 {
     if (empty($animeData)) {
@@ -53,92 +51,7 @@ function afficherAnimeCarousel($animeData, $parsedown, $tr)
     }
 ?>
 
-    <br>
-    <div id="animeCarousel" class="carousel slide" data-bs-ride="carousel" style="min-height: 100vh;">
-        <style>
-            /* Fixe la taille de la section */
-            .carousel-inner {
-                min-height: 100vh;
-                /* Utilise toute la hauteur de l'écran */
-                display: flex;
-                align-items: center;
-                /* Centrer verticalement le contenu */
-            }
-
-            .anime-poster {
-                max-width: 100%;
-                height: 450px;
-                width: 300px;
-                border-radius: 8px;
-            }
-
-            .anime-info {
-                padding-left: 5px;
-                display: flex;
-                flex-direction: column;
-                justify-content: center;
-                height: 100%;
-            }
-
-            .star-checked {
-                color: #FFD700;
-            }
-
-            /* Limite la hauteur de la description et ajoute un défilement */
-            .anime-description {
-                max-height: 300px;
-                /* Limite la hauteur de la description */
-                overflow-y: auto;
-                /* Ajoute un défilement vertical si nécessaire */
-                padding-right: 10px;
-                /* Espace pour éviter que le texte touche le bord */
-            }
-
-            .carousel-control-prev,
-            .carousel-control-next {
-                position: absolute;
-                top: 50%;
-                transform: translateY(-50%);
-                z-index: 10;
-                width: 5%;
-                /* Largeur ajustable pour les boutons */
-                height: 5%;
-                /* Hauteur ajustable pour les boutons */
-            }
-
-            .carousel-control-prev {
-                left: 10px;
-                /* Ajuste la distance au bord gauche */
-            }
-
-            .carousel-control-next {
-                right: 10px;
-                /* Ajuste la distance au bord droit */
-            }
-
-            .anime-description::-webkit-scrollbar {
-                width: 8px;
-                /* Largeur de la barre de défilement */
-            }
-
-            .anime-description::-webkit-scrollbar-track {
-                background: rgba(0, 0, 0, 0.3);
-                /* Couleur de fond de la piste */
-                border-radius: 8px;
-            }
-
-            .anime-description::-webkit-scrollbar-thumb {
-                background-color: #0D6EFD;
-                /* Couleur de la barre */
-                border-radius: 8px;
-            }
-
-            .anime-description::-webkit-scrollbar-thumb:hover {
-                background-color: #0056b3;
-                /* Couleur de la barre au survol */
-            }
-        </style>
-
+    <div id="animeCarousel" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <?php foreach ($animeData as $index => $anime) : ?>
                 <div class="carousel-item <?= $index === 0 ? 'active' : '' ?>">
@@ -146,7 +59,7 @@ function afficherAnimeCarousel($animeData, $parsedown, $tr)
                         <div class="row">
                             <div class="col-md-8 d-flex justify-content-center">
                                 <a href="details.php?id=<?= $anime['id'] ?>" style="text-decoration: none;">
-                                    <img src="<?= $anime['coverImage']['large'] ?>" class="anime-poster" alt="<?= htmlspecialchars($anime['title']['romaji']) ?>">
+                                    <img src="<?= $anime['coverImage']['large'] ?>" class="anime-poster img-fluid" alt="<?= htmlspecialchars($anime['title']['romaji']) ?>">
                                 </a>
                             </div>
 
@@ -186,8 +99,70 @@ function afficherAnimeCarousel($animeData, $parsedown, $tr)
         </button>
     </div>
 
+    <style>
+        .anime-poster {
+            max-width: 100%;
+            height: 450px;
+            width: 300px;
+            border-radius: 8px;
+        }
 
+        .anime-info {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            height: 100%;
+        }
+
+        .star-checked {
+            color: #FFD700;
+        }
+
+        /* Limite la hauteur de la description et ajoute un défilement */
+        .anime-description {
+            max-height: 300px;
+            overflow-y: auto;
+            padding-right: 10px;
+        }
+
+        .anime-description::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        .anime-description::-webkit-scrollbar-track {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 8px;
+        }
+
+        .anime-description::-webkit-scrollbar-thumb {
+            background-color: #0D6EFD;
+            border-radius: 8px;
+        }
+
+        .anime-description::-webkit-scrollbar-thumb:hover {
+            background-color: #0056b3;
+        }
+
+        /* Réduction de la marge des boutons de navigation */
+        .carousel-control-prev,
+        .carousel-control-next {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            z-index: 10;
+            width: 4%; /* Réduit la largeur */
+        }
+
+        .carousel-control-prev {
+            left: -3%; /* Rapproche du bord gauche */
+        }
+
+        .carousel-control-next {
+            right: -3%; /* Rapproche du bord droit */
+        }
+    </style>
 
 <?php
 }
 afficherAnimeCarousel($animeData, $parsedown, $tr);
+?>
