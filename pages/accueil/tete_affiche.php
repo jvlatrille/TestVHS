@@ -145,8 +145,11 @@ function afficherAnimeCarousel($animeData, $parsedown, $tr)
                     <div class="container">
                         <div class="row">
                             <div class="col-md-8 d-flex justify-content-center">
-                                <img src="<?= $anime['coverImage']['large'] ?>" class="anime-poster" alt="<?= htmlspecialchars($anime['title']['romaji']) ?>">
+                                <a href="details.php?id=<?= $anime['id'] ?>" style="text-decoration: none;">
+                                    <img src="<?= $anime['coverImage']['large'] ?>" class="anime-poster" alt="<?= htmlspecialchars($anime['title']['romaji']) ?>">
+                                </a>
                             </div>
+
                             <div class="col-md-4 anime-info">
                                 <h3 class="text-primary mb-2"><?= htmlspecialchars($anime['title']['romaji']) ?></h3>
                                 <div class="mb-2">
