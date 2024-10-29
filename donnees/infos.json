@@ -1,0 +1,1814 @@
+{
+    "154587": {
+        "id": 154587,
+        "title": {
+            "romaji": "Sousou no Frieren",
+            "english": "Frieren: Beyond Journey’s End",
+            "native": "葬送のフリーレン"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx154587-gHSraOSa0nBG.jpg",
+            "local": "donnees\/img\/154587.jpg"
+        },
+        "description": "The adventure is over but life goes on for an elf mage just beginning to learn what living is all about. Elf mage Frieren and her courageous fellow adventurers have defeated the Demon King and brought peace to the land. But Frieren will long outlive the rest of her former party. How will she come to understand what life means to the people around her? Decades after their victory, the funeral of one her friends confronts Frieren with her own near immortality. Frieren sets out to fulfill the last wishes of her comrades and finds herself beginning a new adventure…\n<br><br>\n(Source: Crunchyroll)",
+        "averageScore": 91,
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "episodes": 28,
+        "duration": 24,
+        "startDate": {
+            "year": 2023,
+            "month": 9,
+            "day": 29
+        },
+        "endDate": {
+            "year": 2024,
+            "month": 3,
+            "day": 22
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Toho"
+                },
+                {
+                    "name": "MADHOUSE"
+                },
+                {
+                    "name": "Shogakukan"
+                },
+                {
+                    "name": "Nippon Television Network"
+                },
+                {
+                    "name": "Shogakukan-Shueisha Productions"
+                },
+                {
+                    "name": "Aniplex"
+                },
+                {
+                    "name": "Dentsu"
+                }
+            ]
+        },
+        "popularity": 235994,
+        "trailer": {
+            "id": "qgQunxD0qCk",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/qgQunxD0qCk\/hqdefault.jpg"
+        }
+    },
+    "182469": {
+        "id": 182469,
+        "title": {
+            "romaji": "ONE PIECE FAN LETTER",
+            "english": "ONE PIECE FAN LETTER",
+            "native": "ONE PIECE FAN LETTER"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx182469-qH5FgmiRyOr7.jpg",
+            "local": "donnees\/img\/182469.jpg"
+        },
+        "description": "To commemorate the 25th anniversary of the <i>ONE PIECE<\/i> TV anime: an animated adaptation of the \"ONE PIECE novel: Mugiwara Stories\". <br><br>\n\nTwo years after the Paramount War, the Straw Hats are about to reunite on the Sabaody Archipelago. At the same time, a girl who is head over heels for Nami is trying to hand a fan letter to her before the group leaves the island.<br><br>\n(Source: Crunchyroll)",
+        "averageScore": 91,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "episodes": 1,
+        "duration": 25,
+        "startDate": {
+            "year": 2024,
+            "month": 10,
+            "day": 20
+        },
+        "endDate": {
+            "year": 2024,
+            "month": 10,
+            "day": 20
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Toei Animation"
+                }
+            ]
+        },
+        "popularity": 14855,
+        "trailer": {
+            "id": "MewJ5bEM-5U",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/MewJ5bEM-5U\/hqdefault.jpg"
+        }
+    },
+    "114129": {
+        "id": 114129,
+        "title": {
+            "romaji": "Gintama: THE FINAL",
+            "english": "Gintama: THE VERY FINAL",
+            "native": "銀魂 THE FINAL"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx114129-RLgSuh6YbeYx.jpg",
+            "local": "donnees\/img\/114129.jpg"
+        },
+        "description": "<i>Gintama: THE FINAL<\/i> is the 3rd and final film adaptation of the remainder of the Silver Soul arc and is the series finale.",
+        "averageScore": 91,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "episodes": 1,
+        "duration": 104,
+        "startDate": {
+            "year": 2021,
+            "month": 1,
+            "day": 8
+        },
+        "endDate": {
+            "year": 2021,
+            "month": 1,
+            "day": 8
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Bandai Namco Pictures"
+                },
+                {
+                    "name": "Shueisha"
+                },
+                {
+                    "name": "Aniplex"
+                },
+                {
+                    "name": "Warner Bros. Japan"
+                },
+                {
+                    "name": "Dentsu"
+                },
+                {
+                    "name": "TV Tokyo"
+                }
+            ]
+        },
+        "popularity": 41337,
+        "trailer": {
+            "id": "SvRHM7AONB4",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/SvRHM7AONB4\/hqdefault.jpg"
+        }
+    },
+    "20996": {
+        "id": 20996,
+        "title": {
+            "romaji": "Gintama°",
+            "english": "Gintama Season 4",
+            "native": "銀魂°"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx20996-kBEGEGdeK1r7.jpg",
+            "local": "donnees\/img\/20996.jpg"
+        },
+        "description": "Gintoki, Shinpachi, and Kagura return as the fun-loving but broke members of the Yorozuya team! Living in an alternate-reality Edo, where swords are prohibited and alien overlords have conquered Japan, they try to thrive on doing whatever work they can get their hands on. However, Shinpachi and Kagura still haven't been paid... Does Gin-chan really spend all that cash playing pachinko?\n\nMeanwhile, when Gintoki drunkenly staggers home one night, an alien spaceship crashes nearby. A fatally injured crew member emerges from the ship and gives Gintoki a strange, clock-shaped device, warning him that it is incredibly powerful and must be safeguarded. Mistaking it for his alarm clock, Gintoki proceeds to smash the device the next morning and suddenly discovers that the world outside his apartment has come to a standstill. With Kagura and Shinpachi at his side, he sets off to get the device fixed; though, as usual, nothing is ever that simple for the Yorozuya team.\n\nFilled with tongue-in-cheek humor and moments of heartfelt emotion, Gintama's fourth season finds Gintoki and his friends facing both their most hilarious misadventures and most dangerous crises yet.\n\n<br><\/br>(Source: MAL Rewrite)",
+        "averageScore": 90,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "episodes": 51,
+        "duration": 24,
+        "startDate": {
+            "year": 2015,
+            "month": 4,
+            "day": 8
+        },
+        "endDate": {
+            "year": 2016,
+            "month": 3,
+            "day": 30
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Bandai Namco Pictures"
+                },
+                {
+                    "name": "Aniplex"
+                }
+            ]
+        },
+        "popularity": 99186,
+        "trailer": null
+    },
+    "5114": {
+        "id": 5114,
+        "title": {
+            "romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+            "english": "Fullmetal Alchemist: Brotherhood",
+            "native": "鋼の錬金術師 FULLMETAL ALCHEMIST"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx5114-Dilr312jctdJ.jpg",
+            "local": "donnees\/img\/5114.jpg"
+        },
+        "description": "\"In order for something to be obtained, something of equal value must be lost.\"\n<br><br>\nAlchemy is bound by this Law of Equivalent Exchange—something the young brothers Edward and Alphonse Elric only realize after attempting human transmutation: the one forbidden act of alchemy. They pay a terrible price for their transgression—Edward loses his left leg, Alphonse his physical body. It is only by the desperate sacrifice of Edward's right arm that he is able to affix Alphonse's soul to a suit of armor. Devastated and alone, it is the hope that they would both eventually return to their original bodies that gives Edward the inspiration to obtain metal limbs called \"automail\" and become a state alchemist, the Fullmetal Alchemist.\n<br><br>\nThree years of searching later, the brothers seek the Philosopher's Stone, a mythical relic that allows an alchemist to overcome the Law of Equivalent Exchange. Even with military allies Colonel Roy Mustang, Lieutenant Riza Hawkeye, and Lieutenant Colonel Maes Hughes on their side, the brothers find themselves caught up in a nationwide conspiracy that leads them not only to the true nature of the elusive Philosopher's Stone, but their country's murky history as well. In between finding a serial killer and racing against time, Edward and Alphonse must ask themselves if what they are doing will make them human again... or take away their humanity.\n<br><br>\n(Source: MAL Rewrite)",
+        "averageScore": 90,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "episodes": 64,
+        "duration": 25,
+        "startDate": {
+            "year": 2009,
+            "month": 4,
+            "day": 5
+        },
+        "endDate": {
+            "year": 2010,
+            "month": 7,
+            "day": 4
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "bones"
+                },
+                {
+                    "name": "Aniplex"
+                },
+                {
+                    "name": "Square Enix"
+                },
+                {
+                    "name": "Mainichi Broadcasting System"
+                },
+                {
+                    "name": "Aniplex of America"
+                }
+            ]
+        },
+        "popularity": 566612,
+        "trailer": null
+    },
+    "104578": {
+        "id": 104578,
+        "title": {
+            "romaji": "Shingeki no Kyojin 3 Part 2",
+            "english": "Attack on Titan Season 3 Part 2",
+            "native": "進撃の巨人３ Part.2"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx104578-LaZYFkmhinfB.jpg",
+            "local": "donnees\/img\/104578.jpg"
+        },
+        "description": "The battle to retake Wall Maria begins now! With Eren’s new hardening ability, the Scouts are confident they can seal the wall and take back Shiganshina District. If they succeed, Eren can finally unlock the secrets of the basement—and the world. But danger lies in wait as Reiner, Bertholdt, and the Beast Titan have plans of their own. Could this be humanity’s final battle for survival?<br>\n<br>\n(Source: Funimation)",
+        "averageScore": 89,
+        "genres": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Mystery"
+        ],
+        "episodes": 10,
+        "duration": 24,
+        "startDate": {
+            "year": 2019,
+            "month": 4,
+            "day": 29
+        },
+        "endDate": {
+            "year": 2019,
+            "month": 7,
+            "day": 1
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Wit Studio"
+                },
+                {
+                    "name": "Pony Canyon"
+                },
+                {
+                    "name": "Kodansha"
+                },
+                {
+                    "name": "Production I.G"
+                },
+                {
+                    "name": "Dentsu"
+                },
+                {
+                    "name": "Pony Canyon Enterprise"
+                },
+                {
+                    "name": "Mainichi Broadcasting System"
+                }
+            ]
+        },
+        "popularity": 476796,
+        "trailer": {
+            "id": "fJm2nD3cv_4",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/fJm2nD3cv_4\/hqdefault.jpg"
+        }
+    },
+    "11061": {
+        "id": 11061,
+        "title": {
+            "romaji": "HUNTER×HUNTER (2011)",
+            "english": "Hunter x Hunter (2011)",
+            "native": "HUNTER×HUNTER (2011)"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx11061-NpIIobuQNbJW.png",
+            "local": "donnees\/img\/11061.jpg"
+        },
+        "description": "A new adaption of the manga of the same name by Togashi Yoshihiro.<br><br>\nA Hunter is one who travels the world doing all sorts of dangerous tasks. From capturing criminals to searching deep within uncharted lands for any lost treasures. Gon is a young boy whose father disappeared long ago, being a Hunter. He believes if he could also follow his father's path, he could one day reunite with him.<br><br>\nAfter becoming 12, Gon leaves his home and takes on the task of entering the Hunter exam, notorious for its low success rate and high probability of death to become an official Hunter. He befriends the revenge-driven Kurapika, the doctor-to-be Leorio and the rebellious ex-assassin Killua in the exam, with their friendship prevailing throughout the many trials and threats they come upon taking on the dangerous career of a Hunter.",
+        "averageScore": 89,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "episodes": 148,
+        "duration": 24,
+        "startDate": {
+            "year": 2011,
+            "month": 10,
+            "day": 2
+        },
+        "endDate": {
+            "year": 2014,
+            "month": 9,
+            "day": 24
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "MADHOUSE"
+                },
+                {
+                    "name": "VAP"
+                },
+                {
+                    "name": "Viz Media"
+                },
+                {
+                    "name": "Nippon Television Network"
+                },
+                {
+                    "name": "Studio Live"
+                }
+            ]
+        },
+        "popularity": 658463,
+        "trailer": {
+            "id": "d6kBeJjTGnY",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/d6kBeJjTGnY\/hqdefault.jpg"
+        }
+    },
+    "9969": {
+        "id": 9969,
+        "title": {
+            "romaji": "Gintama'",
+            "english": "Gintama Season 2",
+            "native": "銀魂’"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx9969-XyP8TZwb3L6S.png",
+            "local": "donnees\/img\/9969.jpg"
+        },
+        "description": "After a one-year hiatus, Shinpachi Shimura returns to Edo, only to stumble upon a shocking surprise: Gintoki and Kagura, his fellow Yorozuya members, have become completely different characters! Fleeing from the Yorozuya headquarters in confusion, Shinpachi finds that all the denizens of Edo have undergone impossibly extreme changes, in both appearance and personality. Most unbelievably, his sister Otae has married the Shinsengumi chief and shameless stalker Isao Kondou and is pregnant with their first child.\n<br><br>\nBewildered, Shinpachi agrees to join the Shinsengumi at Otae and Kondou's request and finds even more startling transformations afoot both in and out of the ranks of the the organization. However, discovering that Vice Chief Toushirou Hijikata has remained unchanged, Shinpachi and his unlikely Shinsengumi ally set out to return the city of Edo to how they remember it.\n<br><br>\nWith even more dirty jokes, tongue-in-cheek parodies, and shameless references, Gintama' follows the Yorozuya team through more of their misadventures in the vibrant, alien-filled world of Edo.\n<br><br>\n(Source: MAL Rewrite)",
+        "averageScore": 89,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "episodes": 51,
+        "duration": 24,
+        "startDate": {
+            "year": 2011,
+            "month": 4,
+            "day": 4
+        },
+        "endDate": {
+            "year": 2012,
+            "month": 3,
+            "day": 26
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Sunrise"
+                },
+                {
+                    "name": "TV Tokyo"
+                },
+                {
+                    "name": "Aniplex"
+                },
+                {
+                    "name": "Dentsu"
+                },
+                {
+                    "name": "Trinity Sound"
+                },
+                {
+                    "name": "Miracle Robo"
+                },
+                {
+                    "name": "Studio Jack"
+                }
+            ]
+        },
+        "popularity": 91667,
+        "trailer": null
+    },
+    "15417": {
+        "id": 15417,
+        "title": {
+            "romaji": "Gintama': Enchousen",
+            "english": "Gintama Season 3",
+            "native": "銀魂’延長戦"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx15417-Uc2uNdWEixwi.jpg",
+            "local": "donnees\/img\/15417.jpg"
+        },
+        "description": "While Gintoki Sakata was away, the Yorozuya found themselves a new leader: Kintoki, Gintoki's golden-haired doppelganger. In order to regain his former position, Gintoki will need the help of those around him, a troubling feat when no one can remember him! Between Kintoki and Gintoki, who will claim the throne as the main character?\n<br><br>\nIn addition, Yorozuya make a trip back down to red-light district of Yoshiwara to aid an elderly courtesan in her search for her long-lost lover. Although the district is no longer in chains beneath the earth's surface, the trio soon learn of the tragic backstories of Yoshiwara's inhabitants that still haunt them. With flashback after flashback, this quest has Yorozuya witnessing everlasting love and protecting it as best they can with their hearts and souls.\n<br><br>\n<i>Gintama'<\/i>: Enchousen includes moments of action-packed intensity along with their usual lighthearted, slapstick humor for Gintoki and his friends.\n<br><br>\n(Source: MAL Rewrite)",
+        "averageScore": 89,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "episodes": 13,
+        "duration": 24,
+        "startDate": {
+            "year": 2012,
+            "month": 10,
+            "day": 4
+        },
+        "endDate": {
+            "year": 2013,
+            "month": 3,
+            "day": 28
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Sunrise"
+                },
+                {
+                    "name": "TV Tokyo"
+                },
+                {
+                    "name": "Aniplex"
+                },
+                {
+                    "name": "Dentsu"
+                },
+                {
+                    "name": "Shueisha"
+                }
+            ]
+        },
+        "popularity": 70690,
+        "trailer": null
+    },
+    "116674": {
+        "id": 116674,
+        "title": {
+            "romaji": "BLEACH: Sennen Kessen-hen",
+            "english": "BLEACH: Thousand-Year Blood War",
+            "native": "BLEACH 千年血戦篇"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx116674-p3zK4PUX2Aag.jpg",
+            "local": "donnees\/img\/116674.jpg"
+        },
+        "description": "Was it all just a coincidence, or was it inevitable?\n<br><br>\nIchigo Kurosaki gained the powers of a Soul Reaper through a chance encounter. As a Substitute\nSoul Reaper, Ichigo became caught in the turmoil of the Soul Society, a place where deceased\nsouls gather. But with help from his friends, Ichigo overcame every challenge to become even\nstronger.\n<br><br>\nWhen new Soul Reapers and a new enemy appear in his hometown of Karakura, Ichigo jumps\nback into the battlefield with his Zanpakuto to help those in need. Meanwhile, the Soul Society\nis observing a sudden surge in the number of Hollows being destroyed in the World of the Living.\nThey also receive separate reports of residents in the Rukon District having gone missing. Finally,\nthe Seireitei, home of the Soul Reapers, comes under attack by a group calling themselves the\nWandenreich.\n<br><br>\nLed by Yhwach, the father of all Quincies, the Wandenreich declare war against the Soul Reapers\nwith the following message: <i>\"Five days from now, the Soul Society will be annihilated by the\nWandenreich.\"<\/i>\n<br><br>\nThe history and truth kept hidden by the Soul Reapers for a thousand long years is finally brought\nto light.\n<br><br>\nAll things must come to an end as Ichigo Kurosaki's final battle begins!",
+        "averageScore": 88,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Supernatural"
+        ],
+        "episodes": 13,
+        "duration": 24,
+        "startDate": {
+            "year": 2022,
+            "month": 10,
+            "day": 11
+        },
+        "endDate": {
+            "year": 2022,
+            "month": 12,
+            "day": 27
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Studio Pierrot"
+                },
+                {
+                    "name": "Shueisha"
+                },
+                {
+                    "name": "TV Tokyo"
+                },
+                {
+                    "name": "Dentsu"
+                },
+                {
+                    "name": "Aniplex"
+                }
+            ]
+        },
+        "popularity": 136408,
+        "trailer": {
+            "id": "fzR82oXbjnY",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/fzR82oXbjnY\/hqdefault.jpg"
+        }
+    },
+    "97889": {
+        "id": 97889,
+        "title": {
+            "romaji": "Gintama.",
+            "english": "Gintama Season 5",
+            "native": "銀魂。"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx97889-ytqHdmus9wQi.jpg",
+            "local": "donnees\/img\/97889.jpg"
+        },
+        "description": "After joining the resistance against the bakufu, Gintoki and the gang are in hiding, along with Katsura and his Joui rebels. The Yorozuya is soon approached by Nobume Imai and two members of the Kiheitai, who explain that the Harusame pirates have turned against 7th Division Captain Kamui and their former ally Takasugi. The Kiheitai present Gintoki with a job: find Takasugi, who has been missing since his ship was ambushed in a Harusame raid. Nobume also makes a stunning revelation regarding the Tendoushuu, a secret organization pulling the strings of numerous factions, and their leader Utsuro, the shadowy figure with an uncanny resemblance to Gintoki's former teacher.<br>\n<br>\nHitching a ride on Sakamoto's space ship, the Yorozuya and Katsura set out for Rakuyou, Kagura's home planet, where the various factions have gathered and tensions are brewing. Long-held grudges, political infighting, and the Tendoushuu's sinister overarching plan finally culminate into a massive, decisive battle on Rakuyou.<br>\n<br>\n(Source: MAL Rewrite)",
+        "averageScore": 88,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "episodes": 12,
+        "duration": 24,
+        "startDate": {
+            "year": 2017,
+            "month": 1,
+            "day": 9
+        },
+        "endDate": {
+            "year": 2017,
+            "month": 3,
+            "day": 27
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Bandai Namco Pictures"
+                },
+                {
+                    "name": "Aniplex"
+                }
+            ]
+        },
+        "popularity": 69040,
+        "trailer": {
+            "id": "LOdAAEJiebM",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/LOdAAEJiebM\/hqdefault.jpg"
+        }
+    },
+    "136430": {
+        "id": 136430,
+        "title": {
+            "romaji": "VINLAND SAGA SEASON 2",
+            "english": "Vinland Saga Season 2",
+            "native": "ヴィンランド・サガ SEASON2"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx136430-YrQ8nBDW7gT0.jpg",
+            "local": "donnees\/img\/136430.jpg"
+        },
+        "description": "The second season of <i>Vinland Saga<\/i>. <br><br>\nAfter his father's death and the destruction of his village at the hands of English raiders, Einar wishes for a peaceful life with his family on their newly rebuilt farms. However, fate has other plans: his village is invaded once again. Einar watches helplessly as the marauding Danes burn his lands and slaughter his family. The invaders capture Einar and take him back to Denmark as a slave.\n<br><br>\nEinar clings to his mother's final words to survive. He is purchased by Ketil, a kind slave owner and landlord who promises that Einar can regain his freedom in return for working in the fields. Soon, Einar encounters his new partner in farm cultivation—Thorfinn, a dejected and melancholic slave. As Einar and Thorfinn work together toward their freedom, they are haunted by both sins of the past and the ploys of the present. Yet they carry on, grasping for a glimmer of hope, redemption, and peace in a world that is nothing but unjust and unforgiving.\n<br><br>\n(Source: MAL Rewrite)",
+        "averageScore": 88,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "episodes": 24,
+        "duration": 26,
+        "startDate": {
+            "year": 2023,
+            "month": 1,
+            "day": 10
+        },
+        "endDate": {
+            "year": 2023,
+            "month": 6,
+            "day": 20
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Twin Engine"
+                },
+                {
+                    "name": "MAPPA"
+                },
+                {
+                    "name": "Dentsu"
+                },
+                {
+                    "name": "Kodansha"
+                }
+            ]
+        },
+        "popularity": 177820,
+        "trailer": {
+            "id": "6pX93dXfH9s",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/6pX93dXfH9s\/hqdefault.jpg"
+        }
+    },
+    "169755": {
+        "id": 169755,
+        "title": {
+            "romaji": "BLEACH: Sennen Kessen-hen - Soukoku-tan",
+            "english": "BLEACH: Thousand-Year Blood War - The Conflict",
+            "native": "BLEACH 千年血戦篇-相剋譚-"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx169755-Rqb7MjnzdTc6.jpg",
+            "local": "donnees\/img\/169755.jpg"
+        },
+        "description": "The third part of <i>BLEACH: Sennen Kessen-hen<\/i>. ",
+        "averageScore": 88,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Supernatural"
+        ],
+        "episodes": null,
+        "duration": 24,
+        "startDate": {
+            "year": 2024,
+            "month": 10,
+            "day": 5
+        },
+        "endDate": {
+            "year": null,
+            "month": null,
+            "day": null
+        },
+        "status": "RELEASING",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "PIERROT FILMS"
+                },
+                {
+                    "name": "Shueisha"
+                },
+                {
+                    "name": "TV Tokyo"
+                },
+                {
+                    "name": "Dentsu"
+                },
+                {
+                    "name": "Studio Pierrot"
+                }
+            ]
+        },
+        "popularity": 49466,
+        "trailer": {
+            "id": "Nq9PkH3UgEo",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/Nq9PkH3UgEo\/hqdefault.jpg"
+        }
+    },
+    "2921": {
+        "id": 2921,
+        "title": {
+            "romaji": "Ashita no Joe 2",
+            "english": "Tomorrow's Joe 2",
+            "native": "あしたのジョー２"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx2921-wxj62hpZVbuF.jpg",
+            "local": "donnees\/img\/2921.jpg"
+        },
+        "description": "Yabuki Joe is left downhearted and hopeless after a certain tragic event. In attempt to put the past behind him, Joe leaves the gym behind and begins wandering. On his travels he comes across the likes of Wolf Kanagushi and Goromaki Gondo, men who unintentionally fan the dying embers inside him, leading him to putting his wanderings to an end. His return home puts Joe back on the path to boxing, but unknown to himself and his trainer, he now suffers deep-set issues holding him back from fighting. In attempt to quell those issues, Carlos Rivera, a world renowned boxer is invited from Venezuela to help Joe recover.\n",
+        "averageScore": 88,
+        "genres": [
+            "Action",
+            "Drama",
+            "Slice of Life",
+            "Sports"
+        ],
+        "episodes": 47,
+        "duration": 24,
+        "startDate": {
+            "year": 1980,
+            "month": 10,
+            "day": 13
+        },
+        "endDate": {
+            "year": 1981,
+            "month": 8,
+            "day": 31
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Tokyo Movie Shinsha"
+                },
+                {
+                    "name": "Annapuru"
+                },
+                {
+                    "name": "Shaft"
+                },
+                {
+                    "name": "Nippon Television Network"
+                }
+            ]
+        },
+        "popularity": 15848,
+        "trailer": {
+            "id": "hJ5KjrjfD40",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/hJ5KjrjfD40\/hqdefault.jpg"
+        }
+    },
+    "21": {
+        "id": 21,
+        "title": {
+            "romaji": "ONE PIECE",
+            "english": "ONE PIECE",
+            "native": "ONE PIECE"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx21-YCDoj1EkAxFn.jpg",
+            "local": "donnees\/img\/21.jpg"
+        },
+        "description": "Gold Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the location of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece (which promises an unlimited amount of riches and fame), and quite possibly the most coveted of titles for the person who found it, the title of the Pirate King.<br><br>\nEnter Monkey D. Luffy, a 17-year-old boy that defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate who ransacks villages for fun, Luffy’s reason for being a pirate is one of pure wonder; the thought of an exciting adventure and meeting new and intriguing people, along with finding One Piece, are his reasons of becoming a pirate. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach One Piece.<br><br>\n<b>*This includes following special episodes:<\/b><br>\n- Chopperman to the Rescue! Protect the TV Station by the Shore! (Episode 336)<br>\n- The Strongest Tag-Team! Luffy and Toriko's Hard Struggle! (Episode 492)<br>\n- Team Formation! Save Chopper (Episode 542)<br>\n- History's Strongest Collaboration vs. Glutton of the Sea (Episode 590)<br>\n- 20th Anniversary! Special Romance Dawn (Episode 907)",
+        "averageScore": 88,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "episodes": null,
+        "duration": 24,
+        "startDate": {
+            "year": 1999,
+            "month": 10,
+            "day": 20
+        },
+        "endDate": {
+            "year": null,
+            "month": null,
+            "day": null
+        },
+        "status": "RELEASING",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Toei Animation"
+                },
+                {
+                    "name": "Funimation"
+                },
+                {
+                    "name": "Fuji TV"
+                },
+                {
+                    "name": "4Kids Entertainment"
+                },
+                {
+                    "name": "TAP"
+                },
+                {
+                    "name": "Asatsu DK"
+                },
+                {
+                    "name": "Magic Bus"
+                },
+                {
+                    "name": "Mushi Production"
+                },
+                {
+                    "name": "Studio Guts"
+                },
+                {
+                    "name": "Asahi Production"
+                },
+                {
+                    "name": "Avex Pictures"
+                }
+            ]
+        },
+        "popularity": 560499,
+        "trailer": null
+    },
+    "101338": {
+        "id": 101338,
+        "title": {
+            "romaji": "Mob Psycho 100 II",
+            "english": "Mob Psycho 100 II",
+            "native": "モブサイコ100 II"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx101338-7qOfIaEKSjgl.jpg",
+            "local": "donnees\/img\/101338.jpg"
+        },
+        "description": "The second season of <i>Mob Psycho 100<\/i>. <br>\n<br>Kageyama is an ordinary 8th grader who just wants to live a normal life. Although he can disappear in the crowd in a flash, he was actually the most powerful psychic. The lives of those around Mob and his numerous feelings that softly piles up for the eventual explosion. The mysterious group \"Claw\" stands before him once again. In the midst of his youthful days, where will his roaring heart take him!?\n<br>\n<br>\n(Source: Crunchyroll)",
+        "averageScore": 88,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Psychological",
+            "Slice of Life",
+            "Supernatural"
+        ],
+        "episodes": 13,
+        "duration": 24,
+        "startDate": {
+            "year": 2019,
+            "month": 1,
+            "day": 7
+        },
+        "endDate": {
+            "year": 2019,
+            "month": 4,
+            "day": 1
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "bones"
+                },
+                {
+                    "name": "Warner Bros. Japan"
+                },
+                {
+                    "name": "Shogakukan-Shueisha Productions"
+                },
+                {
+                    "name": "KLOCKWORX"
+                },
+                {
+                    "name": "BS Fuji"
+                },
+                {
+                    "name": "Hakuhodo DY Music & Pictures"
+                }
+            ]
+        },
+        "popularity": 357315,
+        "trailer": {
+            "id": "Pr43Sayk37s",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/Pr43Sayk37s\/hqdefault.jpg"
+        }
+    },
+    "145064": {
+        "id": 145064,
+        "title": {
+            "romaji": "Jujutsu Kaisen 2nd Season",
+            "english": "JUJUTSU KAISEN Season 2",
+            "native": "呪術廻戦 第2期"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx145064-5U30gu2LSOv8.jpg",
+            "local": "donnees\/img\/145064.jpg"
+        },
+        "description": "The second season of <i>Jujutsu Kaisen<\/i>.<br>\n<br>\nThe past comes to light when second-year students Satoru Gojou and Suguru Getou are tasked with escorting young Riko Amanai to Master Tengen. But when a non-sorcerer user tries to kill them, their mission to protect the Star Plasma Vessel threatens to turn them into bitter enemies and cement their destinies—one as the world’s strongest sorcerer, and the other its most twisted curse user!<br>\n<br>\n(Source: Crunchyroll)",
+        "averageScore": 87,
+        "genres": [
+            "Action",
+            "Drama",
+            "Supernatural"
+        ],
+        "episodes": 23,
+        "duration": 24,
+        "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 6
+        },
+        "endDate": {
+            "year": 2023,
+            "month": 12,
+            "day": 28
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "MAPPA"
+                },
+                {
+                    "name": "Toho"
+                },
+                {
+                    "name": "Shueisha"
+                },
+                {
+                    "name": "Sumzap"
+                },
+                {
+                    "name": "Mainichi Broadcasting System"
+                }
+            ]
+        },
+        "popularity": 306645,
+        "trailer": {
+            "id": "O6qVieflwqs",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/O6qVieflwqs\/hqdefault.jpg"
+        }
+    },
+    "15335": {
+        "id": 15335,
+        "title": {
+            "romaji": "Gintama: Kanketsu-hen - Yorozuya yo Eien Nare",
+            "english": "Gintama: The Final Chapter - Be Forever Yorozuya",
+            "native": "劇場版 銀魂 完結篇 万事屋よ永遠なれ"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx15335-QjijwChGTBs0.png",
+            "local": "donnees\/img\/15335.jpg"
+        },
+        "description": "When Gintoki apprehends a movie pirate at a premiere, he checks the camera's footage and finds himself transported to a bleak, post-apocalyptic version of Edo, where a mysterious epidemic called the \"White Plague\" has ravished the world's population. It turns out that the movie pirate wasn't a pirate after all—it was an android time machine, and Gintoki has been hurtled five years into the future! Shinpachi and Kagura, his Yorozuya cohorts, have had a falling out and are now battle-hardened solo vigilantes and he himself has been missing for years, disappearing without a trace after scribbling a strange message in his journal.\n\nSetting out in the disguise given to him by the android time machine, Gintoki haphazardly reunites the Yorozuya team to investigate the White Plague, and soon discovers that the key to saving the future lies in the darkness of his own past. Determined to confront a powerful foe, he makes an important discovery—with a ragtag band of friends and allies at his side, he doesn't have to fight alone.\n<br><br>\n(Source: MAL Rewrite)",
+        "averageScore": 87,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "episodes": 1,
+        "duration": 110,
+        "startDate": {
+            "year": 2013,
+            "month": 7,
+            "day": 6
+        },
+        "endDate": {
+            "year": 2013,
+            "month": 7,
+            "day": 6
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Sunrise"
+                },
+                {
+                    "name": "TV Tokyo"
+                },
+                {
+                    "name": "Aniplex"
+                },
+                {
+                    "name": "Dentsu"
+                },
+                {
+                    "name": "Bandai"
+                }
+            ]
+        },
+        "popularity": 46165,
+        "trailer": {
+            "id": "UhJM5rVqaF8",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/UhJM5rVqaF8\/hqdefault.jpg"
+        }
+    },
+    "101925": {
+        "id": 101925,
+        "title": {
+            "romaji": "Gintama.: Shirogane no Tamashii-hen - Kouhan-sen",
+            "english": "Gintama.: Silver Soul Arc - Second Half War",
+            "native": "銀魂. 銀ノ魂篇2"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx101925-gcA84dgcSj2w.png",
+            "local": "donnees\/img\/101925.jpg"
+        },
+        "description": "The second season of the Silver Soul arc.",
+        "averageScore": 87,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "episodes": 14,
+        "duration": 24,
+        "startDate": {
+            "year": 2018,
+            "month": 7,
+            "day": 9
+        },
+        "endDate": {
+            "year": 2018,
+            "month": 10,
+            "day": 8
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Bandai Namco Pictures"
+                },
+                {
+                    "name": "Aniplex"
+                }
+            ]
+        },
+        "popularity": 46004,
+        "trailer": {
+            "id": "E2rzD37MCSg",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/E2rzD37MCSg\/hqdefault.jpg"
+        }
+    },
+    "21400": {
+        "id": 21400,
+        "title": {
+            "romaji": "Kizumonogatari III: Reiketsu-hen",
+            "english": "Kizumonogatari Part 3: Reiketsu",
+            "native": "傷物語〈Ⅲ冷血篇〉"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx21400-1OpNcuEs7osA.png",
+            "local": "donnees\/img\/21400.jpg"
+        },
+        "description": "First season of the Monogatari Series, part 4\/6. Contains the arc Koyomi Vamp from the Kizumonogatari light novel.\n<br><br>\nWith help from Meme Oshino, the apparition specialist, Koyomi defeats the three powerful vampire hunters: Dramaturgy, Episode and Guillotinecutter. Koyomi takes back all the limbs of Kiss-Shot Acerola-Orion Heart-Under-Blade in order to become a human again. But, when he returns to Kiss-Shot, she reveals to him the cold truth of what it means to be a vampire—a creature of the night. Unable to take back what he has done, Koyomi feels nothing but regret and can only deny his dreadful fate. While Koyomi is struggling to face reality, his “friend” Tsubasa Hanekawa comes to him with a certain plan…\n<br><br>\n(Source: Aniplex)",
+        "averageScore": 87,
+        "genres": [
+            "Action",
+            "Drama",
+            "Ecchi",
+            "Mystery",
+            "Psychological",
+            "Supernatural"
+        ],
+        "episodes": 1,
+        "duration": 82,
+        "startDate": {
+            "year": 2017,
+            "month": 1,
+            "day": 6
+        },
+        "endDate": {
+            "year": 2017,
+            "month": 1,
+            "day": 6
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Shaft"
+                },
+                {
+                    "name": "Toho"
+                },
+                {
+                    "name": "Aniplex"
+                },
+                {
+                    "name": "Kodansha"
+                }
+            ]
+        },
+        "popularity": 119970,
+        "trailer": {
+            "id": "4nTLr6Uf9Ug",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/4nTLr6Uf9Ug\/hqdefault.jpg"
+        }
+    },
+    "101348": {
+        "id": 101348,
+        "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga",
+            "native": "ヴィンランド・サガ"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx101348-msJS8z91mG0P.jpg",
+            "local": "donnees\/img\/101348.jpg"
+        },
+        "description": "Thorfinn is son to one of the Vikings' greatest warriors, but when his father is killed in battle by the mercenary leader Askeladd, he swears to have his revenge. Thorfinn joins Askeladd's band in order to challenge him to a duel, and ends up caught in the middle of a war for the crown of England.\n<br><br>\n(Source: Kodansha USA)",
+        "averageScore": 87,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "episodes": 24,
+        "duration": 24,
+        "startDate": {
+            "year": 2019,
+            "month": 7,
+            "day": 8
+        },
+        "endDate": {
+            "year": 2019,
+            "month": 12,
+            "day": 30
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Wit Studio"
+                },
+                {
+                    "name": "Twin Engine"
+                },
+                {
+                    "name": "Kodansha"
+                },
+                {
+                    "name": "Production I.G"
+                },
+                {
+                    "name": "Dentsu"
+                }
+            ]
+        },
+        "popularity": 389149,
+        "trailer": {
+            "id": "5xqEp7R9SYM",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/5xqEp7R9SYM\/hqdefault.jpg"
+        }
+    },
+    "20751": {
+        "id": 20751,
+        "title": {
+            "romaji": "Mushishi Zoku Shou 2",
+            "english": "MUSHI-SHI The Next Passage 2",
+            "native": "蟲師 続章 2"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx20751-O3XJ9u30y7Qj.png",
+            "local": "donnees\/img\/20751.jpg"
+        },
+        "description": "Second season of Mushishi Zoku Shou.\n<br><br>\nGhostly, primordial beings known as Mushi continue to cause mysterious changes in the lives of humans. The travelling Mushishi, Ginko, persists in trying to set right the strange and unsettling situations he encounters. Time loops, living shadows, and telepathy are among the overt effects of interference from Mushi, but more subtle symptoms that take years to be noticed also rouse Ginko's concern as he passes from village to village.\n",
+        "averageScore": 86,
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Mystery",
+            "Psychological",
+            "Slice of Life",
+            "Supernatural"
+        ],
+        "episodes": 10,
+        "duration": 24,
+        "startDate": {
+            "year": 2014,
+            "month": 10,
+            "day": 19
+        },
+        "endDate": {
+            "year": 2014,
+            "month": 12,
+            "day": 22
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Artland"
+                }
+            ]
+        },
+        "popularity": 48829,
+        "trailer": {
+            "id": "zuX3P6ynAgc",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/zuX3P6ynAgc\/hqdefault.jpg"
+        }
+    },
+    "142329": {
+        "id": 142329,
+        "title": {
+            "romaji": "Kimetsu no Yaiba: Yuukaku-hen",
+            "english": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+            "native": "鬼滅の刃 遊郭編"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx142329-kET1PIXJv2eW.jpg",
+            "local": "donnees\/img\/142329.jpg"
+        },
+        "description": "After visiting the Rengoku residence, Tanjirou and his comrades volunteer for a mission within the Entertainment District, a place where desires are sold and demons dwell. They journey alongside the flashy Sound Hashira, Tengen Uzui, in search of a monstrous foe terrorizing the town. Sworn to slay creatures of the night, the hunt continues.\n<br><br>\n(Source: Funimation)\n<br><br>\n<i>Note:<br>\n- The first episode aired with a runtime of ~47 minutes.<br>\n- The last episode aired with a runtime of ~33 minutes.<\/i>",
+        "averageScore": 86,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Supernatural"
+        ],
+        "episodes": 11,
+        "duration": 24,
+        "startDate": {
+            "year": 2021,
+            "month": 12,
+            "day": 5
+        },
+        "endDate": {
+            "year": 2022,
+            "month": 2,
+            "day": 13
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "ufotable"
+                },
+                {
+                    "name": "Aniplex"
+                },
+                {
+                    "name": "Shueisha"
+                },
+                {
+                    "name": "Aniplex of America"
+                }
+            ]
+        },
+        "popularity": 346427,
+        "trailer": {
+            "id": "XoJCOAU_72U",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/XoJCOAU_72U\/hqdefault.jpg"
+        }
+    },
+    "121467": {
+        "id": 121467,
+        "title": {
+            "romaji": "Modao Zushi 3",
+            "english": "The Founder of Diabolism: Final Season",
+            "native": "魔道祖师 第三季"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx121467-Et0U1jXLfuYf.jpg",
+            "local": "donnees\/img\/121467.jpg"
+        },
+        "description": "The third season of <i>Modao Zushi<\/i>.",
+        "averageScore": 86,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Mystery",
+            "Supernatural"
+        ],
+        "episodes": 12,
+        "duration": 24,
+        "startDate": {
+            "year": 2021,
+            "month": 8,
+            "day": 7
+        },
+        "endDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 16
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Tencent Penguin Pictures"
+                },
+                {
+                    "name": "B.CMAY PICTURES"
+                }
+            ]
+        },
+        "popularity": 19276,
+        "trailer": {
+            "id": "yvrWpTHNMv8",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/yvrWpTHNMv8\/hqdefault.jpg"
+        }
+    },
+    "163134": {
+        "id": 163134,
+        "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ゼロから始める異世界生活 3rd season"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx163134-Y0r8AGBeVlCi.jpg",
+            "local": "donnees\/img\/163134.jpg"
+        },
+        "description": "The third season of <i>Re:Zero kara Hajimeru Isekai Seikatsu<\/i>. <br><br>\n\nA year has passed since Subaru’s victory at the Sanctuary. He savors a life of fulfillment while Emilia’s camp stands united for the royal selection—until a fateful letter arrives. Anastasia, a royal selection candidate, has invited Emilia to the Watergate City of Priestella. But as the party begins its journey, crisis stirs beneath the surface and Subaru meets a cruel fate once again.<br><br>\n(Source: Crunchyroll) <br><br>\n\n<i>Notes:<br>\nThe first episode has an extended runtime of ~90 minutes, and received an early premiere at Anime Expo on July 5, 2024.<\/i>",
+        "averageScore": 86,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Psychological",
+            "Romance",
+            "Thriller"
+        ],
+        "episodes": 16,
+        "duration": 24,
+        "startDate": {
+            "year": 2024,
+            "month": 10,
+            "day": 2
+        },
+        "endDate": {
+            "year": null,
+            "month": null,
+            "day": null
+        },
+        "status": "RELEASING",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "KADOKAWA"
+                },
+                {
+                    "name": "White Fox"
+                },
+                {
+                    "name": "Hakuhodo DY Music & Pictures"
+                },
+                {
+                    "name": "AT-X"
+                },
+                {
+                    "name": "DAXEL"
+                },
+                {
+                    "name": "Memory-Tech"
+                }
+            ]
+        },
+        "popularity": 83431,
+        "trailer": {
+            "id": "qMJNdQFPaHk",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/qMJNdQFPaHk\/hqdefault.jpg"
+        }
+    },
+    "159322": {
+        "id": 159322,
+        "title": {
+            "romaji": "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan",
+            "english": "BLEACH: Thousand-Year Blood War - The Separation",
+            "native": "BLEACH 千年血戦篇-訣別譚-"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx159322-Sp1GflRhE6Po.jpg",
+            "local": "donnees\/img\/159322.jpg"
+        },
+        "description": "The second part of <i>BLEACH: Sennen Kessen-hen<\/i>. \n<br><br>\nAfter a brutal surprise attack by the forces of Quincy King Yhwach, the resident Reapers of the Soul Society lick their wounds and mourn their losses. Many of the surviving Soul Reaper captains train to battle without their Bankai, the ultimate technique wielded by the fiercest warriors.\n<br><br>\nIn the previous assault, Ichigo Kurosaki narrowly managed to help fend off Yhwach's fearsome wrath. However, to ultimately defeat his godly adversary and save his allies, Ichigo must now undergo severe training that will push him beyond his physical, emotional, and mental limits.\n<br><br>\nThough Yhwach already holds the upper hand in this ongoing blood feud, he also successfully recruits Uryuu Ishida, Ichigo's close friend and rival, to be his successor. Yhwach strikes out once again at the weakened Soul Society, intent on finally obliterating his long-standing enemies. As Ichigo struggles to attain new power, the Soul Reaper captains fight for survival and borrowed time.\n<br><br>\n(Source: MAL Rewrite)",
+        "averageScore": 86,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Supernatural"
+        ],
+        "episodes": 13,
+        "duration": 24,
+        "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 8
+        },
+        "endDate": {
+            "year": 2023,
+            "month": 9,
+            "day": 30
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Studio Pierrot"
+                },
+                {
+                    "name": "Shueisha"
+                },
+                {
+                    "name": "TV Tokyo"
+                },
+                {
+                    "name": "Dentsu"
+                },
+                {
+                    "name": "Zack Promotion"
+                },
+                {
+                    "name": "Aniplex"
+                }
+            ]
+        },
+        "popularity": 84898,
+        "trailer": {
+            "id": "53_QT4NSB48",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/53_QT4NSB48\/hqdefault.jpg"
+        }
+    },
+    "1": {
+        "id": 1,
+        "title": {
+            "romaji": "Cowboy Bebop",
+            "english": "Cowboy Bebop",
+            "native": "カウボーイビバップ"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx1-CXtrrkMpJ8Zq.png",
+            "local": "donnees\/img\/1.jpg"
+        },
+        "description": "Enter a world in the distant future, where Bounty Hunters roam the solar system. Spike and Jet, bounty hunting partners, set out on journeys in an ever struggling effort to win bounty rewards to survive.<br><br>\nWhile traveling, they meet up with other very interesting people. Could Faye, the beautiful and ridiculously poor gambler, Edward, the computer genius, and Ein, the engineered dog be a good addition to the group?",
+        "averageScore": 86,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "episodes": 26,
+        "duration": 24,
+        "startDate": {
+            "year": 1998,
+            "month": 4,
+            "day": 3
+        },
+        "endDate": {
+            "year": 1999,
+            "month": 4,
+            "day": 24
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Sunrise"
+                },
+                {
+                    "name": "Bandai Visual"
+                },
+                {
+                    "name": "Bandai Entertainment"
+                }
+            ]
+        },
+        "popularity": 368149,
+        "trailer": {
+            "id": "OhNwckCLzis",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/OhNwckCLzis\/hqdefault.jpg"
+        }
+    },
+    "127976": {
+        "id": 127976,
+        "title": {
+            "romaji": "Tian Guan Ci Fu 2",
+            "english": "Heaven Official's Blessing Season 2",
+            "native": "天官赐福 第二季"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx127976-8PM1dCfqAWNc.jpg",
+            "local": "donnees\/img\/127976.jpg"
+        },
+        "description": "The second season of <i>Tian Guan Ci Fu<\/i>.",
+        "averageScore": 86,
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ],
+        "episodes": 12,
+        "duration": 24,
+        "startDate": {
+            "year": 2023,
+            "month": 10,
+            "day": 18
+        },
+        "endDate": {
+            "year": 2024,
+            "month": 1,
+            "day": 17
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "bilibili"
+                },
+                {
+                    "name": "Red Dog Culture House"
+                }
+            ]
+        },
+        "popularity": 16286,
+        "trailer": {
+            "id": "bw--hY7Sxh0",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/bw--hY7Sxh0\/hqdefault.jpg"
+        }
+    },
+    "20595": {
+        "id": 20595,
+        "title": {
+            "romaji": "Mushishi Zoku Shou",
+            "english": "MUSHI-SHI The Next Passage",
+            "native": "蟲師 続章"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/nx20595-dXPvrTNRKFUb.jpg",
+            "local": "donnees\/img\/20595.jpg"
+        },
+        "description": "They existed long before anyone can remember. They are simple and strange in nature, not resembling any other plant or animal in this world. In ancient times, people revered these bizarre creatures and called them \"Mushi.\"<br>\n<br>\nPeople once again began to believe in the existence of these \"Mushi\" when they began affecting their lives in inexplicable ways.<br>\n<br>\nThe one who connects the world of \"Mushi\" to the world of humans—they were called the \"Mushi-shi.\"<br>\n<br>\nAll life exists not to hinder others in this world.<br>\n<br>\nThey are simply there to live as they were meant to.<br>\n<br>\n(Source: Aniplex of America)",
+        "averageScore": 86,
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Mystery",
+            "Psychological",
+            "Slice of Life",
+            "Supernatural"
+        ],
+        "episodes": 10,
+        "duration": 24,
+        "startDate": {
+            "year": 2014,
+            "month": 4,
+            "day": 5
+        },
+        "endDate": {
+            "year": 2014,
+            "month": 6,
+            "day": 21
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Artland"
+                },
+                {
+                    "name": "Kodansha"
+                },
+                {
+                    "name": "Aniplex"
+                }
+            ]
+        },
+        "popularity": 57488,
+        "trailer": {
+            "id": "CXhPRWY1L0E",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/CXhPRWY1L0E\/hqdefault.jpg"
+        }
+    },
+    "199": {
+        "id": 199,
+        "title": {
+            "romaji": "Sen to Chihiro no Kamikakushi",
+            "english": "Spirited Away",
+            "native": "千と千尋の神隠し"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx199-ilRRfrty7HrJ.jpg",
+            "local": "donnees\/img\/199.jpg"
+        },
+        "description": "On the way to their new home, 10-year-old Chihiro Ogino's family stumbles upon a deserted theme park. Intrigued, the family investigates the park, though unbeknownst to them, it is secretly inhabited by spirits who sleep by day and appear at night. When Chihiro's mother and father eat food from a restaurant in the street, angry spirits turn them into pigs. Furthermore, a wide sea has appeared between the spirit world and the human one, trapping Chihiro, the sole human, in a land of spirits. Luckily for her though, a mysterious boy named Haku appears, claiming to know her from the past. Under his instructions, Chihiro secures a job in the bathhouse where Haku works. With only her courage and some new found friends to aid her, Chihiro embarks on a journey to turn her parents back to their original forms and return home.\n",
+        "averageScore": 86,
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Supernatural"
+        ],
+        "episodes": 1,
+        "duration": 125,
+        "startDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 20
+        },
+        "endDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 20
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Studio Ghibli"
+                },
+                {
+                    "name": "Studio Hibari"
+                },
+                {
+                    "name": "Walt Disney Studios"
+                },
+                {
+                    "name": "GKids"
+                }
+            ]
+        },
+        "popularity": 375256,
+        "trailer": {
+            "id": "ByXuk9QqQkk",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/ByXuk9QqQkk\/hqdefault.jpg"
+        }
+    },
+    "127720": {
+        "id": 127720,
+        "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+            "native": "無職転生 ～異世界行ったら本気だす～ 第2クール"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx127720-ADJgIrUVMdU9.jpg",
+            "local": "donnees\/img\/127720.jpg"
+        },
+        "description": "After the mysterious mana calamity, Rudeus Greyrat and his fierce student Eris Boreas Greyrat are teleported to the Demon Continent. There, they team up with their newfound companion Ruijerd Supardia—the former leader of the Superd's Warrior group—to form \"Dead End,\" a successful adventurer party. Making a name for themselves, the trio journeys across the continent to make their way back home to Fittoa.\n<br><br>\nFollowing the advice he received from the faceless god Hitogami, Rudeus saves Kishirika Kishirisu, the Great Emperor of the Demon World, who rewards him by granting him a strange power. Now, as Rudeus masters the powerful ability that offers a number of new opportunities, it might prove to be more than what he bargained for when unexpected dangers threaten to hinder their travels.\n<br><br>\n(Source: MAL Rewrite)",
+        "averageScore": 85,
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+        ],
+        "episodes": 12,
+        "duration": 24,
+        "startDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 4
+        },
+        "endDate": {
+            "year": 2021,
+            "month": 12,
+            "day": 20
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Studio Bind"
+                },
+                {
+                    "name": "Hakuhodo DY Music & Pictures"
+                },
+                {
+                    "name": "Toho"
+                },
+                {
+                    "name": "KADOKAWA"
+                },
+                {
+                    "name": "Frontier Works"
+                },
+                {
+                    "name": "Nippon BS Broadcasting"
+                },
+                {
+                    "name": "GREE"
+                },
+                {
+                    "name": "EGG FIRM"
+                }
+            ]
+        },
+        "popularity": 229529,
+        "trailer": {
+            "id": "vPBU0xBjFFY",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/vPBU0xBjFFY\/hqdefault.jpg"
+        }
+    },
+    "114745": {
+        "id": 114745,
+        "title": {
+            "romaji": "Made in Abyss: Retsujitsu no Ougonkyou",
+            "english": "Made in Abyss: The Golden City of the Scorching Sun",
+            "native": "メイドインアビス 烈日の黄金郷"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx114745-APZN90WhNMAD.jpg",
+            "local": "donnees\/img\/114745.jpg"
+        },
+        "description": "The second season of <i>Made in Abyss<\/i>.<br>\n<br>\nDirectly after the events of <i>Made in Abyss: Fukaki Tamashii no Reimei<\/i>, the third installment of <i>Made in Abyss<\/i> covers the adventures of Reg, Riko, and Nanachi in the Sixth Layer, The Capital of the Unreturned.\n<br><br>\n<i>Note: The last episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.<\/i>",
+        "averageScore": 85,
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Horror",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "episodes": 12,
+        "duration": 24,
+        "startDate": {
+            "year": 2022,
+            "month": 7,
+            "day": 6
+        },
+        "endDate": {
+            "year": 2022,
+            "month": 9,
+            "day": 28
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "KADOKAWA"
+                },
+                {
+                    "name": "Kinema Citrus"
+                },
+                {
+                    "name": "Cygames"
+                },
+                {
+                    "name": "Takeshobo"
+                },
+                {
+                    "name": "AT-X"
+                },
+                {
+                    "name": "Sony Music Solutions"
+                },
+                {
+                    "name": "Global Solutions"
+                },
+                {
+                    "name": "Kadokawa Media House"
+                }
+            ]
+        },
+        "popularity": 113932,
+        "trailer": {
+            "id": "lsDt6xQQxYY",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/lsDt6xQQxYY\/hqdefault.jpg"
+        }
+    }
+}
