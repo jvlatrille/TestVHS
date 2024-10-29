@@ -1,4 +1,17 @@
-<footer class="bg-dark text-center text-white py-3 mt-auto position-fixed bottom-0 w-100">
+<footer class="bg-dark text-center text-white py-3 mt-auto w-100">
+    <style>
+        html,
+        body {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            margin: 0;
+        }
+
+        main {
+            flex: 1;
+        }
+    </style>
     <div class="container">
         <p class="mb-1">&copy; 2023 VHS - Video Home Share. Tous droits réservés.</p>
         <div>
