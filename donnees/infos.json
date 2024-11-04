@@ -1810,5 +1810,611 @@
             "site": "youtube",
             "thumbnail": "https:\/\/i.ytimg.com\/vi\/lsDt6xQQxYY\/hqdefault.jpg"
         }
+    },
+    "124194": {
+        "id": 124194,
+        "title": {
+            "romaji": "Fruits Basket: The Final",
+            "english": "Fruits Basket The Final Season",
+            "native": "フルーツバスケットThe Final"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx124194-5eUjfzDYUboz.jpg",
+            "local": "donnees\/img\/124194.jpg"
+        },
+        "description": "After last season’s revelations, the Soma family moves forward, but the emotional chains that bind them are not easily broken. Unable to admit why she wants the cure, Tohru wrestles with the truth, aware that time is running out for someone close.\n<br><br>\nAnd a secret still lurks that could break another’s heart. But hope is not lost—a clue to the curse is found. Could their imprisonment’s end be near?<br><br>\n(Source: Funimation)<br><br>\n<i>Note: This season premiered on Funimation and AnimeLab on March 20, 2021. The Japanese broadcast started two weeks later on April 6, 2021.<\/i>",
+        "averageScore": 89,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Psychological",
+            "Romance",
+            "Slice of Life",
+            "Supernatural"
+        ],
+        "episodes": 13,
+        "duration": 24,
+        "startDate": {
+            "year": 2021,
+            "month": 4,
+            "day": 6
+        },
+        "endDate": {
+            "year": 2021,
+            "month": 6,
+            "day": 29
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "TMS Entertainment"
+                },
+                {
+                    "name": "TMS Music"
+                },
+                {
+                    "name": "Funimation"
+                },
+                {
+                    "name": "Avex Pictures"
+                }
+            ]
+        },
+        "popularity": 138913,
+        "trailer": {
+            "id": "ci2XSskC_wA",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/ci2XSskC_wA\/hqdefault.jpg"
+        }
+    },
+    "125367": {
+        "id": 125367,
+        "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "native": "かぐや様は告らせたい-ウルトラロマンティック-"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx125367-vV8WqtLQpT2J.png",
+            "local": "donnees\/img\/125367.jpg"
+        },
+        "description": "The elite members of Shuchiin Academy's student council continue their competitive day-to-day antics. Council president Miyuki Shirogane clashes daily against vice-president Kaguya Shinomiya, each fighting tooth and nail to trick the other into confessing their romantic love. Kaguya struggles within the strict confines of her wealthy, uptight family, rebelling against her cold default demeanor as she warms to Shirogane and the rest of her friends.<br>\n<br>\nMeanwhile, council treasurer Yuu Ishigami suffers under the weight of his hopeless crush on Tsubame Koyasu, a popular upperclassman who helps to instill a new confidence in him. Miko Iino, the newest student council member, grows closer to the rule-breaking Ishigami while striving to overcome her own authoritarian moral code.<br>\n<br>\nAs love further blooms at Shuchiin Academy, the student council officers drag their outsider friends into increasingly comedic conflicts.<br>\n<br>\n(Source: MAL Rewrite)<br>\n<br>\n<i>Note: The first episode had an advanced screening on April 2, in both New York & Los Angeles.<br>",
+        "averageScore": 89,
+        "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Slice of Life"
+        ],
+        "episodes": 13,
+        "duration": 24,
+        "startDate": {
+            "year": 2022,
+            "month": 4,
+            "day": 9
+        },
+        "endDate": {
+            "year": 2022,
+            "month": 6,
+            "day": 25
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Aniplex"
+                },
+                {
+                    "name": "Shueisha"
+                },
+                {
+                    "name": "A-1 Pictures"
+                },
+                {
+                    "name": "JR Higashi Nihon Kikaku"
+                },
+                {
+                    "name": "Mainichi Broadcasting System"
+                }
+            ]
+        },
+        "popularity": 217561,
+        "trailer": {
+            "id": "RN4FFgHpAZo",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/RN4FFgHpAZo\/hqdefault.jpg"
+        }
+    },
+    "21745": {
+        "id": 21745,
+        "title": {
+            "romaji": "Owarimonogatari (Ge)",
+            "english": "Owarimonogatari Second Season",
+            "native": "終物語（下）"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx21745-vHwC1VKoL6zf.png",
+            "local": "donnees\/img\/21745.jpg"
+        },
+        "description": "Third and “Final Season” of the Monogatari Series, part 4\/5. Contains the arcs Mayoi Hell, Hitagi Rendezvous, and Ougi Dark from the Owarimonogatari light novels.\n<br><br>\nKoyomi wakes up to see Mayoi Hachikuji before him, the girl who supposedly had gone to the afterlife. She tells Koyomi that they are currently in Avichi, the lowest levels of hell. Koyomi is dubious of how Mayoi knew about the exact timing of his death and which hell he would drop into, when Mayoi tells him that she was there to pick him up by the request of a certain individual.\n<br><br>\n(Source: Aniplex)",
+        "averageScore": 89,
+        "genres": [
+            "Comedy",
+            "Mystery",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+        ],
+        "episodes": 7,
+        "duration": 24,
+        "startDate": {
+            "year": 2017,
+            "month": 8,
+            "day": 12
+        },
+        "endDate": {
+            "year": 2017,
+            "month": 8,
+            "day": 13
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Shaft"
+                },
+                {
+                    "name": "Kodansha"
+                },
+                {
+                    "name": "Aniplex"
+                }
+            ]
+        },
+        "popularity": 103689,
+        "trailer": {
+            "id": "7WdyIcDlK2o",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/7WdyIcDlK2o\/hqdefault.jpg"
+        }
+    },
+    "17074": {
+        "id": 17074,
+        "title": {
+            "romaji": "Monogatari Series: Second Season",
+            "english": "Monogatari Series Second Season",
+            "native": "〈物語〉シリーズ セカンドシーズン"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx17074-9lBqEOzptpam.png",
+            "local": "donnees\/img\/17074.jpg"
+        },
+        "description": "Second season of the Monogatari Series, part 1\/2. Contains the arcs Tsubasa Tiger, Mayoi Jiangshi, Nadeko Medusa, Shinobu Time, and Hitagi End, from the Nekomonogatari White, Kabukimonogatari, Otorimonogatari, Onimonogatari and Koimonogatari light novels, respectively.\n<br><br>\nThese stories take place after the end of the summer vacation when the apparition of the bee had left and the apparition of the phoenix avoided any consequences… Now that Koyomi Araragi and the girls were entering their new school terms, they were once again about to encounter supernatural beings…but this time, they may not be so easy to deal with.\n<br><br>\nTsubasa Hanekawa, Mayoi Hachikuji, Nadeko Sengoku, Shinobu Oshino, and finally Hitagi Senjougahara. The girls’ loneliness, their confessions, and their departures… 5 new “stories” begin now.\n<br><br>\n(Source: Aniplex)<br>\n<br>\n<i>Notes:<i>\n<br>\n <i>Includes 3 recap episodes from the TV version (Ep. 6, 11, 16).<\/i>\n<br>\n<i>The recap episodes were not included in the Blu-Ray version of the anime.<\/i>",
+        "averageScore": 88,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+        ],
+        "episodes": 26,
+        "duration": 26,
+        "startDate": {
+            "year": 2013,
+            "month": 7,
+            "day": 7
+        },
+        "endDate": {
+            "year": 2013,
+            "month": 12,
+            "day": 29
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Shaft"
+                },
+                {
+                    "name": "Kodansha"
+                },
+                {
+                    "name": "Aniplex of America"
+                }
+            ]
+        },
+        "popularity": 145083,
+        "trailer": {
+            "id": "-c__dc_csNo",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/-c__dc_csNo\/hqdefault.jpg"
+        }
+    },
+    "151384": {
+        "id": 151384,
+        "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+            "native": "かぐや様は告らせたい -ファーストキッスは終わらない-"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx151384-gv0q8wOE6D58.jpg",
+            "local": "donnees\/img\/151384.jpg"
+        },
+        "description": "Shuchiin Academy’s student council room: the place where Student Council Vice President Kaguya Shinomiya and President Miyuki Shirogane met. After a long battle in love, these two geniuses communicated their feelings and, at the Hoshin Festival, had their very first kiss. However, there was no clear confession of love. The relationship between these two, who assumed they would be a couple, remains ambiguous. Now, overly conscious of their feelings, they must face the biggest challenge yet: Christmas. It’s Shirogane who wants it to be perfect versus Kaguya who pursues the imperfect situation. This is the very “normal” love story of two geniuses and the first kiss that never ends.\n<br><br>\n(Source: Aniplex of America)\n<br><br>\n<em>Note: The anime first premiered in theaters across Japan on December 17, 2022. It was later split into 2 parts on TV, and 4 episodes on streaming, and Blu-Ray\/DVD.<\/em>",
+        "averageScore": 87,
+        "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Slice of Life"
+        ],
+        "episodes": 4,
+        "duration": 25,
+        "startDate": {
+            "year": 2023,
+            "month": 4,
+            "day": 1
+        },
+        "endDate": {
+            "year": 2023,
+            "month": 4,
+            "day": 3
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "A-1 Pictures"
+                },
+                {
+                    "name": "Aniplex"
+                }
+            ]
+        },
+        "popularity": 98983,
+        "trailer": {
+            "id": "W3IvBLpebQ4",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/W3IvBLpebQ4\/hqdefault.jpg"
+        }
+    },
+    "166216": {
+        "id": 166216,
+        "title": {
+            "romaji": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+            "english": "The Dangers in My Heart Season 2",
+            "native": "僕の心のヤバイやつ 第2期"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx166216-JVyN7PHel5K9.jpg",
+            "local": "donnees\/img\/166216.jpg"
+        },
+        "description": "The second season of <i>Boku no Kokoro no Yabai Yatsu<\/i>.\n<br><br>\nAfter an eventful winter break, Kyoutarou Ichikawa and Anna Yamada reunite with a stronger bond. They continue to grow in their own ways, with Yamada taking on more challenging photoshoots and Ichikawa maturing both physically and emotionally as he tackles his affections for Yamada. However, spending time together outside of school allows for their relationship to deepen, and it becomes increasingly difficult to deny their budding romantic feelings.\n<br><br>\nGrappling with these unexpected and new emotions, Ichikawa and Yamada realize that, with the passage of time, their relationship is bound to change—and they must ultimately decide whether they wish to remain close friends or finally become a couple.\n<br><br>\n(Source: MAL Rewrite)",
+        "averageScore": 87,
+        "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+        ],
+        "episodes": 13,
+        "duration": 23,
+        "startDate": {
+            "year": 2024,
+            "month": 1,
+            "day": 7
+        },
+        "endDate": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Shin-Ei Animation"
+                },
+                {
+                    "name": "TV Asahi"
+                },
+                {
+                    "name": "Avex Pictures"
+                },
+                {
+                    "name": "Shin-Ei Animation"
+                },
+                {
+                    "name": "Akita Shoten"
+                },
+                {
+                    "name": "TV Asahi Music"
+                },
+                {
+                    "name": "Movic"
+                },
+                {
+                    "name": "Dentsu"
+                },
+                {
+                    "name": "BS Asahi"
+                }
+            ]
+        },
+        "popularity": 57032,
+        "trailer": {
+            "id": "MIi8I2dgzo0",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/MIi8I2dgzo0\/hqdefault.jpg"
+        }
+    },
+    "21698": {
+        "id": 21698,
+        "title": {
+            "romaji": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
+            "english": "HAIKYU!! 3rd Season",
+            "native": "ハイキュー!! 烏野高校 VS 白鳥沢学園高校"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx21698-RL71mr1YU5Io.png",
+            "local": "donnees\/img\/21698.jpg"
+        },
+        "description": "After the victory against Aoba Jousai High, Karasuno High School, once called “a fallen powerhouse, a crow that can’t fly,” has finally reached the climax of the heated Spring tournament. Now, to advance to nationals, the Karasuno team has to defeat the powerhouse Shiratorizawa Academy. Karasuno’s greatest hurdle is their adversary’s ace, Wakatoshi Ushijima, the number one player in the Miyagi Prefecture, and one of the country’s top three aces.\n<br><br>\nOnly the strongest team will make it to the national tournament. Since this match is the third-year players’ last chance to qualify for nationals, Karasuno has to use everything they learned during the training camp and prior matches to attain victory. Filled with restlessness and excitement, both teams are determined to come out on top in the third season of Haikyuu!!.\n<br><br>\n[Written by MAL Rewrite]",
+        "averageScore": 87,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Sports"
+        ],
+        "episodes": 10,
+        "duration": 25,
+        "startDate": {
+            "year": 2016,
+            "month": 10,
+            "day": 8
+        },
+        "endDate": {
+            "year": 2016,
+            "month": 12,
+            "day": 10
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Production I.G"
+                },
+                {
+                    "name": "Sentai Filmworks"
+                }
+            ]
+        },
+        "popularity": 299922,
+        "trailer": {
+            "id": "kQnm-51H2ng",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/kQnm-51H2ng\/hqdefault.jpg"
+        }
+    },
+    "140439": {
+        "id": 140439,
+        "title": {
+            "romaji": "Mob Psycho 100 III",
+            "english": "Mob Psycho 100 III",
+            "native": "モブサイコ100 Ⅲ"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx140439-qpBzXkvVqSx3.jpg",
+            "local": "donnees\/img\/140439.jpg"
+        },
+        "description": "The third season of <i>Mob Psycho 100<\/i>. <br><br>\nThe appearance of a divine tree and new religion turns Mob and Reigen's city upside down!<br><br>\n(Source: Crunchyroll)\n",
+        "averageScore": 87,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Psychological",
+            "Slice of Life",
+            "Supernatural"
+        ],
+        "episodes": 12,
+        "duration": 24,
+        "startDate": {
+            "year": 2022,
+            "month": 10,
+            "day": 6
+        },
+        "endDate": {
+            "year": 2022,
+            "month": 12,
+            "day": 22
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "bones"
+                },
+                {
+                    "name": "Warner Bros. Japan"
+                },
+                {
+                    "name": "KLOCKWORX"
+                },
+                {
+                    "name": "Hakuhodo DY Music & Pictures"
+                },
+                {
+                    "name": "BS Fuji"
+                },
+                {
+                    "name": "Shogakukan"
+                },
+                {
+                    "name": "Shogakukan-Shueisha Productions"
+                }
+            ]
+        },
+        "popularity": 186267,
+        "trailer": {
+            "id": "Ah7lTT-NKMw",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/Ah7lTT-NKMw\/hqdefault.jpg"
+        }
+    },
+    "130003": {
+        "id": 130003,
+        "title": {
+            "romaji": "Bocchi the Rock!",
+            "english": "BOCCHI THE ROCK!",
+            "native": "ぼっち・ざ・ろっく！"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx130003-OBj8AZKPvnV9.png",
+            "local": "donnees\/img\/130003.jpg"
+        },
+        "description": "Hitori Gotou, “Bocchi-chan,” is a girl who’s so introverted and shy around people that she’d always start her conversations with “Ah...”<br>\n<br>\nDuring her middle school years, she started playing the guitar, wanting to join a band because she thought it could be an opportunity for even someone shy like her to also shine. But because she had no friends, she ended up practicing guitar for six hours every day all by herself. After becoming a skilled guitar player, she uploaded videos of herself playing the guitar to the internet under the name “Guitar Hero” and fantasized about performing at her school’s cultural festival concert. But not only could she not find any bandmates, before she knew it, she was in high school and still wasn’t able to make a single friend!<br>\n<br>\nShe was really close to becoming a shut-in, but one day, Nijika Ijichi, the drummer in Kessoku Band, reached out to her. And because of that, her everyday life started to change little by little...<br>\n<br>\n(Source: Crunchyroll)",
+        "averageScore": 87,
+        "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+        ],
+        "episodes": 12,
+        "duration": 24,
+        "startDate": {
+            "year": 2022,
+            "month": 10,
+            "day": 9
+        },
+        "endDate": {
+            "year": 2022,
+            "month": 12,
+            "day": 25
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "CloverWorks"
+                },
+                {
+                    "name": "Aniplex"
+                },
+                {
+                    "name": "Houbunsha"
+                }
+            ]
+        },
+        "popularity": 170813,
+        "trailer": {
+            "id": "SyMMZF5zNW4",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/SyMMZF5zNW4\/hqdefault.jpg"
+        }
+    },
+    "263": {
+        "id": 263,
+        "title": {
+            "romaji": "Hajime no Ippo: THE FIGHTING!",
+            "english": "Hajime no Ippo: The Fighting!",
+            "native": "はじめの一歩 THE FIGHTING!"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx263-G7RlubsM73YY.png",
+            "local": "donnees\/img\/263.jpg"
+        },
+        "description": "Makunouchi Ippo has been bullied his entire life. Constantly running errands and being beaten up by his classmates, Ippo has always dreamed of changing himself, but never has the passion to act upon it. One day, in the midst of yet another bullying, Ippo is saved by Takamura Mamoru, who happens to be a boxer. Ippo faints from his injuries and is brought to the Kamogawa boxing gym to recover. As he regains consciousness, he is awed and amazed at his new surroundings in the gym, though lacks confidence to attempt anything. Takamura places a photo of Ippo's classmate on a punching bag and forces him to punch it. It is only then that Ippo feels something stir inside him and eventually asks Takamura to train him in boxing. Thinking that Ippo does not have what it takes, Takamura gives him a task deemed impossible and gives him a one week time limit. With a sudden desire to get stronger, for himself and his hard working mother, Ippo trains relentlessly to accomplish the task within the time limit. Thus Ippo's journey to the top of the boxing world begins.<br><br>",
+        "averageScore": 86,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Sports"
+        ],
+        "episodes": 75,
+        "duration": 23,
+        "startDate": {
+            "year": 2000,
+            "month": 10,
+            "day": 4
+        },
+        "endDate": {
+            "year": 2002,
+            "month": 3,
+            "day": 27
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "MADHOUSE"
+                },
+                {
+                    "name": "VAP"
+                },
+                {
+                    "name": "NBCUniversal Entertainment Japan"
+                },
+                {
+                    "name": "Discotek"
+                }
+            ]
+        },
+        "popularity": 104276,
+        "trailer": null
+    },
+    "153658": {
+        "id": 153658,
+        "title": {
+            "romaji": "Haikyuu!!: Gomi Suteba no Kessen",
+            "english": "HAIKYU!! The Dumpster Battle",
+            "native": "ハイキュー!! ゴミ捨て場の決戦"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx153658-KVnjW77cQw3y.jpg",
+            "local": "donnees\/img\/153658.jpg"
+        },
+        "description": "Theatrical follow-up to <i>Haikyuu!! TO THE TOP 2<\/i>. The first film of Haikyuu!! FINAL.<br><br>\n\nThe Spring Nationals tournament continues on, with Karasuno High matched against rivals Nekoma High, the fated battle between cats versus crows, also known as the highly anticipated “Dumpster Battle”. This match is the long awaited ultimate showdown between two opposing underdog teams.<br><br>\n(Source: Crunchyroll, edited)",
+        "averageScore": 86,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Sports"
+        ],
+        "episodes": 1,
+        "duration": 85,
+        "startDate": {
+            "year": 2024,
+            "month": 2,
+            "day": 16
+        },
+        "endDate": {
+            "year": 2024,
+            "month": 2,
+            "day": 16
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Toho"
+                },
+                {
+                    "name": "Shueisha"
+                },
+                {
+                    "name": "Production I.G"
+                }
+            ]
+        },
+        "popularity": 52447,
+        "trailer": {
+            "id": "pl4a2eQUgpc",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/pl4a2eQUgpc\/hqdefault.jpg"
+        }
     }
 }
