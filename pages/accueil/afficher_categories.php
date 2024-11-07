@@ -93,7 +93,10 @@ function afficherCategorieCarousel($animeData, $parsedown, $tr, $selectedGenre, 
                                 $imagePath = "$baseUrl/donnees/img/" . $anime['id'] . ".jpg";
                                 ?>
                                 <div class="card text-center mx-2" style="min-width: 150px; max-width: 150px; border: 1px solid black; border-radius: 8px;">
-                                    <img src="<?= $imagePath ?>" class="card-img-top" alt="<?= htmlspecialchars($anime['title']['romaji']) ?>" style="height: 200px; object-fit: cover; border-radius: 8px 8px 0 0;">
+                                    <!-- Lien cliquable vers la page de détails -->
+                                    <a href="<?= $baseUrl ?>/pages/details.php?id=<?= $anime['id'] ?>" style="text-decoration: none;">
+                                        <img src="<?= $imagePath ?>" class="card-img-top" alt="<?= htmlspecialchars($anime['title']['romaji']) ?>" style="height: 200px; object-fit: cover; border-radius: 8px 8px 0 0;">
+                                    </a>
                                     <div class="card-body" style="color: #000;">
                                         <h6 class="card-title" style="color: black;"><?= htmlspecialchars($anime['title']['romaji']) ?></h6>
                                     </div>
@@ -121,6 +124,7 @@ function afficherCategorieCarousel($animeData, $parsedown, $tr, $selectedGenre, 
             align-items: center;
             min-height: 300px;
         }
+
         .card {
             background-color: transparent;
             color: #eaeaea;
@@ -131,4 +135,3 @@ function afficherCategorieCarousel($animeData, $parsedown, $tr, $selectedGenre, 
 }
 
 afficherCategorieCarousel($animeData, $parsedown, $tr, $selectedGenre, $genres);
-?>

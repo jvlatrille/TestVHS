@@ -2416,5 +2416,387 @@
             "site": "youtube",
             "thumbnail": "https:\/\/i.ytimg.com\/vi\/pl4a2eQUgpc\/hqdefault.jpg"
         }
+    },
+    "9253": {
+        "id": 9253,
+        "title": {
+            "romaji": "Steins;Gate",
+            "english": "Steins;Gate",
+            "native": "シュタインズ・ゲート"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx9253-7pdcVzQSkKxT.jpg",
+            "local": "donnees\/img\/9253.jpg"
+        },
+        "description": "Self-proclaimed mad scientist Okabe Rintarou lives in a small room in Akihabara, where he invents \"future gadgets\" with fellow lab members Shiina Mayuri, his air-headed childhood friend, and Hashida Itaru, an otaku hacker. The three pass the time by tinkering with their latest creation, a \"Phone Microwave\" that can be controlled through text messages. \n<br><br>\nThe lab members soon face a string of mysterious incidents that lead to a game-changing discovery: the Phone Microwave can send emails to the past and thus alter history. Adapted from the critically acclaimed visual novel by 5pb. and Nitroplus, Steins;Gate takes Okabe to the depths of scientific theory and human despair as he faces the dire consequences of changing the past.",
+        "averageScore": 89,
+        "genres": [
+            "Drama",
+            "Psychological",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "episodes": 24,
+        "duration": 24,
+        "startDate": {
+            "year": 2011,
+            "month": 4,
+            "day": 6
+        },
+        "endDate": {
+            "year": 2011,
+            "month": 9,
+            "day": 14
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Frontier Works"
+                },
+                {
+                    "name": "Funimation"
+                },
+                {
+                    "name": "Media Factory"
+                },
+                {
+                    "name": "Movic"
+                },
+                {
+                    "name": "AT-X"
+                },
+                {
+                    "name": "White Fox"
+                },
+                {
+                    "name": "Kadokawa Pictures Japan"
+                },
+                {
+                    "name": "Nitroplus"
+                }
+            ]
+        },
+        "popularity": 468850,
+        "trailer": {
+            "id": "27OZc-ku6is",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/27OZc-ku6is\/hqdefault.jpg"
+        }
+    },
+    "98478": {
+        "id": 98478,
+        "title": {
+            "romaji": "3-gatsu no Lion 2",
+            "english": "March comes in like a lion Season 2",
+            "native": "３月のライオン 2"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx98478-dF3mpSKiZkQu.jpg",
+            "local": "donnees\/img\/98478.jpg"
+        },
+        "description": "The second season of <i>3-gatsu no Lion<\/i>.<br>\n<br>\nNow in his second year of high school, Rei Kiriyama continues pushing through his struggles in the professional shogi world as well as his personal life. Surrounded by vibrant personalities at the shogi hall, the school club, and in the local community, his solitary shell slowly begins to crack. Among them are the three Kawamoto sisters—Akari, Hinata, and Momo—who forge an affectionate and familial bond with Rei. Through these ties, he realizes that everyone is burdened by their own emotional hardships and begins learning how to rely on others while supporting them in return.<br>\n<br>\nNonetheless, the life of a professional is not easy. Between tournaments, championships, and title matches, the pressure mounts as Rei advances through the ranks and encounters incredibly skilled opponents. As he manages his relationships with those who have grown close to him, the shogi player continues to search for the reason he plays the game that defines his career.\n",
+        "averageScore": 89,
+        "genres": [
+            "Drama",
+            "Slice of Life"
+        ],
+        "episodes": 22,
+        "duration": 25,
+        "startDate": {
+            "year": 2017,
+            "month": 10,
+            "day": 14
+        },
+        "endDate": {
+            "year": 2018,
+            "month": 3,
+            "day": 31
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Shaft"
+                },
+                {
+                    "name": "Aniplex"
+                }
+            ]
+        },
+        "popularity": 112898,
+        "trailer": {
+            "id": "OfSaJb5OOPA",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/OfSaJb5OOPA\/hqdefault.jpg"
+        }
+    },
+    "820": {
+        "id": 820,
+        "title": {
+            "romaji": "Ginga Eiyuu Densetsu",
+            "english": "Legend of the Galactic Heroes",
+            "native": "銀河英雄伝説"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx820-TdEkgBgPyfdA.png",
+            "local": "donnees\/img\/820.jpg"
+        },
+        "description": "For decades, the Galactic Empire has been locked in an interstellar war with the Free Planets Alliance, a conflict that involves thousands of spaceships and millions of soldiers on both sides. Two new commanders enter the conflict with great hopes: Imperial Admiral Reinhard von Lohengramm and the FPA's Yang Wen-Li. As they deal with superiors and subordinates, maneuver through complicated political arrangements, plot strategies, and win battles, each will be tested, and ultimately, changed, by the reality of war. <br><br>\n(Source: Anime News Network)",
+        "averageScore": 88,
+        "genres": [
+            "Drama",
+            "Sci-Fi"
+        ],
+        "episodes": 110,
+        "duration": 26,
+        "startDate": {
+            "year": 1988,
+            "month": 1,
+            "day": 8
+        },
+        "endDate": {
+            "year": 1997,
+            "month": 3,
+            "day": 17
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Kitty Film"
+                },
+                {
+                    "name": "T.P.O"
+                },
+                {
+                    "name": "K-Factory"
+                },
+                {
+                    "name": "Sentai Filmworks"
+                }
+            ]
+        },
+        "popularity": 67006,
+        "trailer": {
+            "id": "Ou37P25tjJY",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/Ou37P25tjJY\/hqdefault.jpg"
+        }
+    },
+    "161645": {
+        "id": 161645,
+        "title": {
+            "romaji": "Kusuriya no Hitorigoto",
+            "english": "The Apothecary Diaries",
+            "native": "薬屋のひとりごと"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx161645-bX5S28Cc1Nnk.jpg",
+            "local": "donnees\/img\/161645.jpg"
+        },
+        "description": "Maomao lived a peaceful life with her apothecary father. Until one day, she’s sold as a lowly servant to the emperor’s palace. But she wasn’t meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she’s making a name for herself solving medical mysteries!\n<br><br>\n(Source: Crunchyroll)",
+        "averageScore": 88,
+        "genres": [
+            "Drama",
+            "Mystery"
+        ],
+        "episodes": 24,
+        "duration": 23,
+        "startDate": {
+            "year": 2023,
+            "month": 10,
+            "day": 22
+        },
+        "endDate": {
+            "year": 2024,
+            "month": 3,
+            "day": 24
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Toho"
+                },
+                {
+                    "name": "OLM"
+                },
+                {
+                    "name": "TOHO animation STUDIO"
+                },
+                {
+                    "name": "Nippon Television Network"
+                },
+                {
+                    "name": "Imagica Infos"
+                },
+                {
+                    "name": "Dentsu"
+                },
+                {
+                    "name": "Shogakukan"
+                },
+                {
+                    "name": "Square Enix"
+                }
+            ]
+        },
+        "popularity": 142128,
+        "trailer": {
+            "id": "oyHqh8ue4zw",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/oyHqh8ue4zw\/hqdefault.jpg"
+        }
+    },
+    "174788": {
+        "id": 174788,
+        "title": {
+            "romaji": "Look Back",
+            "english": "LOOK BACK",
+            "native": "ルックバック"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx174788-tuw7KozIDS8a.jpg",
+            "local": "donnees\/img\/174788.jpg"
+        },
+        "description": "Ayumu Fujino is a fourth grader who draws a manga strip for the school newspaper. Her art makes her the star of the class, but one day she's told that Kyomoto, a student who refuses to come to school, would also like to submit a manga for the paper...\n<br><br>\n(Source: MANGA Plus, edited)",
+        "averageScore": 88,
+        "genres": [
+            "Drama",
+            "Slice of Life"
+        ],
+        "episodes": 1,
+        "duration": 58,
+        "startDate": {
+            "year": 2024,
+            "month": 6,
+            "day": 28
+        },
+        "endDate": {
+            "year": 2024,
+            "month": 6,
+            "day": 28
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Studio Durian"
+                },
+                {
+                    "name": "Avex Pictures"
+                }
+            ]
+        },
+        "popularity": 35807,
+        "trailer": {
+            "id": "H6HOnlTnVwc",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/H6HOnlTnVwc\/hqdefault.jpg"
+        }
+    },
+    "19": {
+        "id": 19,
+        "title": {
+            "romaji": "MONSTER",
+            "english": "Monster",
+            "native": "MONSTER"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx19-8Iz8KB1pJNil.jpg",
+            "local": "donnees\/img\/19.jpg"
+        },
+        "description": "Dr. Kenzo Tenma is a renowned Japanese brain surgeon working at a leading hospital in Germany. One night, Dr. Tenma risks his reputation and career to save the life of a critically wounded young boy over that of the town mayor who had been planning to support the hospital financially. A string of mysterious murders begin to occur soon after the operation, and Dr. Tenma emerges as the primary suspect despite no incriminating evidence. \n<br><br>\nA doctor is taught to believe that all life is equal; however, when another series of murders occur in the surgeon's vicinity, Dr. Tenma's beliefs are shaken as his actions that night are shown to have much broader consequences than he could have imagined. Leaving behind his life as a surgeon he embarks on a journey across the country to unravel the mystery of the boy he saved.",
+        "averageScore": 88,
+        "genres": [
+            "Drama",
+            "Horror",
+            "Mystery",
+            "Psychological",
+            "Thriller"
+        ],
+        "episodes": 74,
+        "duration": 24,
+        "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 7
+        },
+        "endDate": {
+            "year": 2005,
+            "month": 9,
+            "day": 28
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "MADHOUSE"
+                },
+                {
+                    "name": "VAP"
+                },
+                {
+                    "name": "Viz Media"
+                },
+                {
+                    "name": "Nippon Television Network"
+                }
+            ]
+        },
+        "popularity": 246002,
+        "trailer": null
+    },
+    "20954": {
+        "id": 20954,
+        "title": {
+            "romaji": "Koe no Katachi",
+            "english": "A Silent Voice",
+            "native": "聲の形"
+        },
+        "coverImage": {
+            "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx20954-UMb6Kl7ZL8Ke.jpg",
+            "local": "donnees\/img\/20954.jpg"
+        },
+        "description": "After transferring into a new school, a deaf girl, Shouko Nishimiya, is bullied by the popular Shouya Ishida. As Shouya continues to bully Shouko, the class turns its back on him. Shouko transfers and Shouya grows up as an outcast. Alone and depressed, the regretful Shouya finds Shouko to make amends.\n<br><br>\n(Source: Eleven Arts)",
+        "averageScore": 88,
+        "genres": [
+            "Drama",
+            "Romance",
+            "Slice of Life"
+        ],
+        "episodes": 1,
+        "duration": 130,
+        "startDate": {
+            "year": 2016,
+            "month": 9,
+            "day": 17
+        },
+        "endDate": {
+            "year": 2016,
+            "month": 9,
+            "day": 17
+        },
+        "status": "FINISHED",
+        "studios": {
+            "nodes": [
+                {
+                    "name": "Kyoto Animation"
+                },
+                {
+                    "name": "ABC Animation"
+                },
+                {
+                    "name": "Kodansha"
+                }
+            ]
+        },
+        "popularity": 541465,
+        "trailer": {
+            "id": "Sy4bPCuzfiQ",
+            "site": "youtube",
+            "thumbnail": "https:\/\/i.ytimg.com\/vi\/Sy4bPCuzfiQ\/hqdefault.jpg"
+        }
     }
 }
