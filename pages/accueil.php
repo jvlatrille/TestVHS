@@ -14,7 +14,6 @@ include '../db/config.php';
     <style>
         /* Arrière-plan dégradé pour éviter les coupures */
         body {
-            background: linear-gradient(to right, #ff0000, #0000ff);
             margin: 0;
             padding: 0;
         }

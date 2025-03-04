@@ -98,7 +98,7 @@ function afficherCategorieCarousel($animeData, $parsedown, $tr, $selectedGenre, 
                                         <img src="<?= $imagePath ?>" class="card-img-top" alt="<?= htmlspecialchars($anime['title']['romaji']) ?>" style="height: 200px; object-fit: cover; border-radius: 8px 8px 0 0;">
                                     </a>
                                     <div class="card-body" style="color: #000;">
-                                        <h6 class="card-title" style="color: black;"><?= htmlspecialchars($anime['title']['romaji']) ?></h6>
+                                        <h6 class="card-title"><?= htmlspecialchars($anime['title']['romaji']) ?></h6>
                                     </div>
                                 </div>
                             <?php endforeach; ?>
@@ -123,12 +123,6 @@ function afficherCategorieCarousel($animeData, $parsedown, $tr, $selectedGenre, 
             display: flex;
             align-items: center;
             min-height: 300px;
-        }
-
-        .card {
-            background-color: transparent;
-            color: #eaeaea;
-            border: 1px solid #0D6EFD;
         }
     </style>
 <?php

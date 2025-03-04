@@ -117,10 +117,6 @@ function afficherAnimeCarousel($animeData, $parsedown, $tr)
             height: 100%;
         }
 
-        .star-checked {
-            color: #FFD700;
-        }
-
         .anime-description {
             max-height: 300px;
             overflow-y: auto;
@@ -137,13 +133,9 @@ function afficherAnimeCarousel($animeData, $parsedown, $tr)
         }
 
         .anime-description::-webkit-scrollbar-thumb {
-            background-color: #0D6EFD;
             border-radius: 8px;
         }
 
-        .anime-description::-webkit-scrollbar-thumb:hover {
-            background-color: #0056b3;
-        }
 
         .carousel-control-prev,
         .carousel-control-next {

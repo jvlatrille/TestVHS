@@ -104,8 +104,6 @@ $descriptionFr = $tr->translate($anime['description']);
 
         /* Container avec fond gris transparent */
         .content-container {
-            background-color: rgba(33, 37, 41, 0.85);
-            color: #eaeaea;
             padding: 20px;
             border-radius: 8px;
         }
@@ -124,7 +122,6 @@ $descriptionFr = $tr->translate($anime['description']);
             flex: 0 0 auto;
             scroll-snap-align: start;
             width: 150px;
-            background-color: #333;
         }
 
         /* Style personnalisé pour la barre de défilement */
@@ -138,12 +135,7 @@ $descriptionFr = $tr->translate($anime['description']);
         }
 
         .recommendation-list::-webkit-scrollbar-thumb {
-            background-color: #0D6EFD;
             border-radius: 8px;
-        }
-
-        .recommendation-list::-webkit-scrollbar-thumb:hover {
-            background-color: #0056b3;
         }
     </style>
 </head>
